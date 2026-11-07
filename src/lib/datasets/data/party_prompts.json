@@ -1,0 +1,64 @@
+[
+  {
+    "majorityRules": [
+      "What is the ultimate midnight snack?",
+      "If you could only drink one beverage for the rest of your life, what is it?",
+      "Which Bollywood movie is the greatest of all time?",
+      "What is the most overrated holiday destination?",
+      "Which is better: Hill station or Beach?",
+      "What is the most awkward text you can receive from a boss?",
+      "If you could have dinner with any living person, who is it?",
+      "What is the ideal age to retire?",
+      "Which superpower is actually the most useful day-to-day?",
+      "What is the most annoying habit a roommate can have?",
+      "Which fast food chain has the best french fries?",
+      "What is the worst song to get stuck in your head?",
+      "What is the best board/card game to play with friends?",
+      "If animals could talk, which one would be the rudest?",
+      "What is the most iconic Indian street food?"
+    ],
+    "mostLikelyTo": [
+      "Who is most likely to accidentally become famous?",
+      "Who is most likely to survive a zombie apocalypse?",
+      "Who is most likely to text an ex at 2 AM?",
+      "Who is most likely to get lost in their own hometown?",
+      "Who is most likely to spend their entire paycheck in 48 hours?",
+      "Who is most likely to forget everyone's birthday?",
+      "Who is most likely to become a billionaire?",
+      "Who is most likely to start an argument over board game rules?",
+      "Who is most likely to fall asleep during a loud party?",
+      "Who is most likely to buy something completely useless from Instagram ads?",
+      "Who is most likely to win a reality TV show?",
+      "Who is most likely to lock themselves out of their house?",
+      "Who is most likely to binge-watch an entire TV series in one night?",
+      "Who is most likely to become an undercover spy?",
+      "Who is most likely to laugh at the worst possible moment?"
+    ],
+    "hotSeat": [
+      "What was your first impression of this person?",
+      "What job would this person be surprisingly good at?",
+      "What is this person's secret guilty pleasure?",
+      "If this person wrote an autobiography, what would the title be?",
+      "What would this person do if they won 10 Crore rupees tomorrow?",
+      "Which celebrity does this person act like?",
+      "What is this person's most used excuse for cancelling plans?",
+      "What is the biggest red flag this person has that everyone ignores?",
+      "What would this person be arrested for in a comedy movie?",
+      "What is the kindest thing this person has ever done?"
+    ],
+    "rapidFire": [
+      "Name as many Football Clubs as you can",
+      "Name as many Bollywood Movies as you can",
+      "Name as many Indian Cricketers as you can",
+      "Name as many Cities in India as you can",
+      "Name as many Dishes with Paneer as you can",
+      "Name as many Punjabi Songs as you can",
+      "Name as many Car Brands as you can",
+      "Name as many Video Games as you can",
+      "Name as many Marvel / Superhero Characters as you can",
+      "Name as many Netflix Shows as you can",
+      "Name as many Fruits and Vegetables as you can",
+      "Name as many Mobile Apps on your phone as you can"
+    ]
+  }
+]

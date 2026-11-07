@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "fb_club_001",
+    "name": "Manchester City",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_002",
+    "name": "Real Madrid",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_003",
+    "name": "Arsenal",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_004",
+    "name": "Barcelona",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_005",
+    "name": "Liverpool",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_006",
+    "name": "Bayern Munich",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_007",
+    "name": "Paris Saint-Germain",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_008",
+    "name": "Inter Milan",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_009",
+    "name": "Bayer Leverkusen",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_010",
+    "name": "Atletico Madrid",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_011",
+    "name": "Juventus",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_012",
+    "name": "AC Milan",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_013",
+    "name": "Borussia Dortmund",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_014",
+    "name": "Tottenham Hotspur",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_015",
+    "name": "Chelsea",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_016",
+    "name": "Manchester United",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_017",
+    "name": "Aston Villa",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_018",
+    "name": "Newcastle United",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_019",
+    "name": "Atalanta",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_020",
+    "name": "Napoli",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_021",
+    "name": "Roma",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_022",
+    "name": "Lazio",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_023",
+    "name": "Fiorentina",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_024",
+    "name": "RB Leipzig",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_025",
+    "name": "Eintracht Frankfurt",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_026",
+    "name": "VfB Stuttgart",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_027",
+    "name": "Athletic Bilbao",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_028",
+    "name": "Real Sociedad",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_029",
+    "name": "Villarreal",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_030",
+    "name": "Real Betis",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_031",
+    "name": "Sevilla",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_032",
+    "name": "Girona",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_033",
+    "name": "Porto",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_034",
+    "name": "Benfica",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_035",
+    "name": "Sporting CP",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_036",
+    "name": "Ajax",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_037",
+    "name": "PSV Eindhoven",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_038",
+    "name": "Feyenoord",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_039",
+    "name": "Galatasaray",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_040",
+    "name": "Fenerbahce",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_041",
+    "name": "Besiktas",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_042",
+    "name": "Celtic",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_043",
+    "name": "Rangers",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_044",
+    "name": "Brighton & Hove Albion",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_045",
+    "name": "West Ham United",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_046",
+    "name": "Brentford",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_047",
+    "name": "Fulham",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_048",
+    "name": "Wolverhampton Wanderers",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_049",
+    "name": "Crystal Palace",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_050",
+    "name": "Everton",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_051",
+    "name": "AFC Bournemouth",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_052",
+    "name": "Nottingham Forest",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_053",
+    "name": "Leicester City",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_054",
+    "name": "Ipswich Town",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_055",
+    "name": "Southampton",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_056",
+    "name": "Leeds United",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_057",
+    "name": "Sunderland",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_058",
+    "name": "Marseille",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_059",
+    "name": "Monaco",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_060",
+    "name": "Lille",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_061",
+    "name": "Lyon",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_062",
+    "name": "Nice",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_063",
+    "name": "Lens",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_064",
+    "name": "Rennes",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_065",
+    "name": "Al Nassr",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_066",
+    "name": "Al Hilal",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_067",
+    "name": "Al Ittihad",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_068",
+    "name": "Al Ahli",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_069",
+    "name": "Inter Miami",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_070",
+    "name": "LA Galaxy",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_071",
+    "name": "Los Angeles FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_072",
+    "name": "Boca Juniors",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_073",
+    "name": "River Plate",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_074",
+    "name": "Flamengo",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_075",
+    "name": "Palmeiras",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_076",
+    "name": "Santos",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_077",
+    "name": "Corinthians",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_078",
+    "name": "Mohun Bagan Super Giant",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_079",
+    "name": "East Bengal FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_080",
+    "name": "Bengaluru FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_081",
+    "name": "Mumbai City FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_082",
+    "name": "Kerala Blasters FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_083",
+    "name": "FC Goa",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_084",
+    "name": "Odisha FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_085",
+    "name": "Chennaiyin FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_086",
+    "name": "Jamshedpur FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_087",
+    "name": "NorthEast United FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_088",
+    "name": "Punjab FC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_089",
+    "name": "Mohammedan SC",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_090",
+    "name": "Shakhtar Donetsk",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_091",
+    "name": "Dynamo Kyiv",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_092",
+    "name": "Red Star Belgrade",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_093",
+    "name": "Dinamo Zagreb",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_094",
+    "name": "Olympiacos",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_095",
+    "name": "Panathinaikos",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_096",
+    "name": "PAOK",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_097",
+    "name": "FC Copenhagen",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_098",
+    "name": "Slavia Prague",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_099",
+    "name": "Sparta Prague",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_100",
+    "name": "Young Boys",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_101",
+    "name": "Basel",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_102",
+    "name": "Red Bull Salzburg",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_103",
+    "name": "Sturm Graz",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_104",
+    "name": "Club Brugge",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_105",
+    "name": "Anderlecht",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_106",
+    "name": "Genk",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_107",
+    "name": "Union Saint-Gilloise",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_108",
+    "name": "Celta Vigo",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_109",
+    "name": "Espanyol",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_110",
+    "name": "Mallorca",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_111",
+    "name": "Valencia",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_112",
+    "name": "Osasuna",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_113",
+    "name": "Getafe",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_114",
+    "name": "Rayo Vallecano",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_115",
+    "name": "Torino",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_116",
+    "name": "Bologna",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_117",
+    "name": "Monza",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_118",
+    "name": "Udinese",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_119",
+    "name": "Genoa",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_120",
+    "name": "Empoli",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_121",
+    "name": "Cagliari",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_122",
+    "name": "Verona",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_123",
+    "name": "Wolfsburg",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_124",
+    "name": "Borussia Monchengladbach",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_125",
+    "name": "Werder Bremen",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_126",
+    "name": "Hoffenheim",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_127",
+    "name": "Augsburg",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_128",
+    "name": "Mainz 05",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "fb_club_129",
+    "name": "Heidenheim",
+    "category": "sports",
+    "subcategory": "football_clubs",
+    "difficulty": "hard",
+    "region": "international"
+  }
+]

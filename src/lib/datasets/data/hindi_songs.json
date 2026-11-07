@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "hs_001",
+    "name": "Tum Hi Ho",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_002",
+    "name": "Chaiyya Chaiyya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_003",
+    "name": "Kal Ho Naa Ho",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_004",
+    "name": "Tujhe Dekha Toh",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_005",
+    "name": "Kabira",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_006",
+    "name": "Kun Faya Kun",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_007",
+    "name": "Jai Ho",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_008",
+    "name": "Gerua",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_009",
+    "name": "Tere Bina",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_010",
+    "name": "Galliyan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_011",
+    "name": "Channa Mereya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_012",
+    "name": "Ae Dil Hai Mushkil",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_013",
+    "name": "Apna Bana Le",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_014",
+    "name": "Kesariya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_015",
+    "name": "Ghungroo",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_016",
+    "name": "Senorita",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_017",
+    "name": "Ilahi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_018",
+    "name": "Balam Pichkari",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_019",
+    "name": "Pee Loon",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_020",
+    "name": "Tum Se Hi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_021",
+    "name": "Mauja Hi Mauja",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_022",
+    "name": "Mitwa",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_023",
+    "name": "Maahi Ve",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_024",
+    "name": "Tere Mast Mast Do Nain",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_025",
+    "name": "Dagabaaz Re",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_026",
+    "name": "Munni Badnam Hui",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_027",
+    "name": "Sheila Ki Jawani",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_028",
+    "name": "Chikni Chameli",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_029",
+    "name": "Fevicol Se",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_030",
+    "name": "Kamli",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_031",
+    "name": "Dhoom Machale",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_032",
+    "name": "Beedi Jalaile",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_033",
+    "name": "Kajra Re",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_034",
+    "name": "Dard-E-Disco",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_035",
+    "name": "Deewangi Deewangi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_036",
+    "name": "Aankh Marey",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_037",
+    "name": "Dilbar",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_038",
+    "name": "O Saki Saki",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_039",
+    "name": "Garmi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_040",
+    "name": "Nadiyon Paar",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_041",
+    "name": "Pasoori Nu",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_042",
+    "name": "Satranga",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_043",
+    "name": "Arjan Vailly",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_044",
+    "name": "Pehle Bhi Main",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_045",
+    "name": "Chaleya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_046",
+    "name": "Not Ramaiya Vastavaiya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_047",
+    "name": "Zinda Banda",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_048",
+    "name": "Jhoome Jo Pathaan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_049",
+    "name": "Besharam Rang",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_050",
+    "name": "Lutt Putt Gaya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_051",
+    "name": "Tere Vaste",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_052",
+    "name": "Phir Aur Kya Chahiye",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_053",
+    "name": "O Maahi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_054",
+    "name": "Sajni (Laapataa Ladies)",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_055",
+    "name": "Tauba Tauba",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_056",
+    "name": "Aaj Ki Raat (Stree 2)",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_057",
+    "name": "Aayi Nai",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_058",
+    "name": "Khoobsurat",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_059",
+    "name": "Tumhare Hi Rahenge Hum",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_060",
+    "name": "Raataan Lambiyan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "hs_061",
+    "name": "Ranjha",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_062",
+    "name": "Mann Bharryaa 2.0",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_063",
+    "name": "Hawayein",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_064",
+    "name": "Zaalima",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_065",
+    "name": "Udi Teri Aankhon Se",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_066",
+    "name": "Khairiyat",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_068",
+    "name": "Nashe Si Chadh Gayi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_069",
+    "name": "Sooraj Dooba Hain",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_070",
+    "name": "Subha Hone Na De",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_071",
+    "name": "Desi Girl",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_072",
+    "name": "Maa Da Laadla",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_073",
+    "name": "Dostana Jaane Kyun",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_074",
+    "name": "Dhan Te Nan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_075",
+    "name": "Pehli Nazar Mein",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_076",
+    "name": "Tu Jaane Na",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_077",
+    "name": "Tera Hone Laga Hoon",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_078",
+    "name": "Jeene Laga Hoon",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_079",
+    "name": "Pani Da Rang",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_080",
+    "name": "Saadi Galli Aaja",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_081",
+    "name": "Sun Saathiya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_082",
+    "name": "Bezubaan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_083",
+    "name": "Kar Gayi Chull",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_084",
+    "name": "Bolna",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_085",
+    "name": "Buddhu Sa Mann",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_086",
+    "name": "Hasi Ban Gaye",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_087",
+    "name": "Hamari Adhuri Kahani",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_088",
+    "name": "Baatein Ye Kabhi Na",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_089",
+    "name": "Muskurane Ki Wajah",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_090",
+    "name": "Suno Na Sangemarmar",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_091",
+    "name": "Galliyan Returns",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_092",
+    "name": "Dil Sambhal Ja Zara",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_093",
+    "name": "Phir Mohabbat",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_094",
+    "name": "Aye Khuda",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_095",
+    "name": "Tose Naina",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_096",
+    "name": "Sajde",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_097",
+    "name": "Jiya Dhadak Dhadak Jaye",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_098",
+    "name": "Bol Na Halke Halke",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_099",
+    "name": "Suraj Hua Maddham",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_100",
+    "name": "Bole Chudiyan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_101",
+    "name": "You Are My Soniya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_102",
+    "name": "Say Shava Shava",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_103",
+    "name": "Kuch Kuch Hota Hai",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_104",
+    "name": "Ladki Badi Anjani Hai",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_105",
+    "name": "Koi Mil Gaya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_106",
+    "name": "Tujhe Yaad Na Meri Aayee",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_107",
+    "name": "Yeh Ladka Hai Allah",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_108",
+    "name": "Chupke Se",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_109",
+    "name": "Saathiya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_110",
+    "name": "Aye Udi Udi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_111",
+    "name": "Humma Humma",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_112",
+    "name": "Urvashi Urvashi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_113",
+    "name": "Muqabla",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_114",
+    "name": "Mukkabla",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_115",
+    "name": "Tan Tana Tan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_116",
+    "name": "O O Jaane Jaana",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_117",
+    "name": "Chura Ke Dil Mera",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_118",
+    "name": "Tip Tip Barsa Paani",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_119",
+    "name": "Tu Cheez Badi Hai Mast Mast",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_120",
+    "name": "Akhiyon Se Goli Maare",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_121",
+    "name": "Main Nikla Gaddi Leke",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_122",
+    "name": "Udd Jaa Kaale Kaava",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_123",
+    "name": "Sandese Aate Hain",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_124",
+    "name": "Aisa Des Hai Mera",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_125",
+    "name": "Do Pal",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_126",
+    "name": "Tere Liye (Veer-Zaara)",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_127",
+    "name": "Main Yahaan Hoon",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_128",
+    "name": "Kyon Hawa",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_129",
+    "name": "Yeh Tara Woh Tara",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_130",
+    "name": "Yun Hi Chala Chal",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_131",
+    "name": "Dekho Na",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_132",
+    "name": "Chand Sifarish",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_133",
+    "name": "Mere Haath Mein",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_134",
+    "name": "Subhanallah",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_135",
+    "name": "Dilliwaali Girlfriend",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_136",
+    "name": "Badtameez Dil",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_137",
+    "name": "Ghagra",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_138",
+    "name": "Matargashti",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_139",
+    "name": "Agar Tum Saath Ho",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_140",
+    "name": "Safarnama",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_141",
+    "name": "Wat Wat Wat",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_142",
+    "name": "Heer Toh Badi Sad Hai",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_143",
+    "name": "Nadaan Parinde",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_144",
+    "name": "Hawaa Hawaa",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_145",
+    "name": "Sadda Haq",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_146",
+    "name": "Katiya Karun",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_147",
+    "name": "Jo Bhi Main",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_148",
+    "name": "Aur Ho",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_149",
+    "name": "Tum Ho",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_150",
+    "name": "Banjaara",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "hs_151",
+    "name": "Awari",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_152",
+    "name": "Zaroorat",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_153",
+    "name": "Humdard",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_154",
+    "name": "Teri Galliyan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_155",
+    "name": "Sanam Re",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_156",
+    "name": "Hua Hain Aaj Pehli Baar",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_157",
+    "name": "Gazab Ka Hai Din",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_158",
+    "name": "Soch Na Sake",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_159",
+    "name": "Dil Cheez Tujhe Dedi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_160",
+    "name": "Sab Tera",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_161",
+    "name": "Cham Cham",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_162",
+    "name": "Girl I Need You",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_163",
+    "name": "Baaghi Get Ready to Fight",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_164",
+    "name": "High Heels Te Nachche",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_165",
+    "name": "Kaun Tujhe",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_166",
+    "name": "Besabriyaan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_167",
+    "name": "Jab Tak",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_168",
+    "name": "Padhoge Likhoge",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_169",
+    "name": "Dangal Title Track",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_170",
+    "name": "Haanikaarak Bapu",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_171",
+    "name": "Dhaakad",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_172",
+    "name": "Gilehriyaan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_173",
+    "name": "Naina",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_174",
+    "name": "Sweety Tera Drama",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_175",
+    "name": "Twist Kamariya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_176",
+    "name": "Nazm Nazm",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_177",
+    "name": "Mera Pyar Tera Pyar",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_178",
+    "name": "Tera Yaar Hoon Main",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_179",
+    "name": "Bom Diggy Diggy",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_180",
+    "name": "Dil Chori",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_181",
+    "name": "Chhote Chhote PrPeg",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_182",
+    "name": "Subah Subah",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_183",
+    "name": "Kaun Nachdi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_184",
+    "name": "Akh Lad Jaave",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_185",
+    "name": "Kamariya",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_186",
+    "name": "Chogada",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_187",
+    "name": "Dholida",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_188",
+    "name": "Tera Ghata",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_189",
+    "name": "Prada (The Doorbeen)",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_190",
+    "name": "Leja Re",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_191",
+    "name": "Vaaste",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_192",
+    "name": "Lut Gaye",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_194",
+    "name": "Kusu Kusu",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_195",
+    "name": "Param Sundari",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_196",
+    "name": "Chaka Chak",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_197",
+    "name": "Rait Zara Si",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_198",
+    "name": "Tere Rang",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_199",
+    "name": "Doobey",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_200",
+    "name": "Gehraiyaan",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_201",
+    "name": "Maiyya Mainu",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_202",
+    "name": "Mehram",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_203",
+    "name": "Jind Meriye",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_204",
+    "name": "Saami Saami Hindi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_205",
+    "name": "Srivalli Hindi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_206",
+    "name": "Oo Antava Mawa Hindi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_207",
+    "name": "Naacho Naacho Hindi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_208",
+    "name": "Dosti Hindi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "hs_209",
+    "name": "Komuram Bheemudo Hindi",
+    "category": "entertainment",
+    "subcategory": "hindi_songs",
+    "difficulty": "hard",
+    "region": "india"
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "word": "Biryani",
+    "category": "Food",
+    "forbiddenWords": [
+      "Rice",
+      "Chicken",
+      "Hyderabadi",
+      "Spices",
+      "Mutton"
+    ]
+  },
+  {
+    "word": "Cricket",
+    "category": "Sports",
+    "forbiddenWords": [
+      "Bat",
+      "Ball",
+      "Wicket",
+      "Kohli",
+      "Pitch"
+    ]
+  },
+  {
+    "word": "Bollywood",
+    "category": "Entertainment",
+    "forbiddenWords": [
+      "Cinema",
+      "Movies",
+      "Mumbai",
+      "Actors",
+      "Hindi"
+    ]
+  },
+  {
+    "word": "Samosa",
+    "category": "Food",
+    "forbiddenWords": [
+      "Potato",
+      "Fried",
+      "Chutney",
+      "Snack",
+      "Triangular"
+    ]
+  },
+  {
+    "word": "Taj Mahal",
+    "category": "Monument",
+    "forbiddenWords": [
+      "Agra",
+      "Shah Jahan",
+      "Marble",
+      "Wonder",
+      "Love"
+    ]
+  },
+  {
+    "word": "Chai",
+    "category": "Beverage",
+    "forbiddenWords": [
+      "Tea",
+      "Milk",
+      "Ginger",
+      "Morning",
+      "Sugar"
+    ]
+  },
+  {
+    "word": "Auto Rickshaw",
+    "category": "Transport",
+    "forbiddenWords": [
+      "Three Wheeler",
+      "Meter",
+      "Tuk Tuk",
+      "Yellow",
+      "Driver"
+    ]
+  },
+  {
+    "word": "Diwali",
+    "category": "Festival",
+    "forbiddenWords": [
+      "Lights",
+      "Diyas",
+      "Crackers",
+      "Sweets",
+      "Lakshmi"
+    ]
+  },
+  {
+    "word": "Holi",
+    "category": "Festival",
+    "forbiddenWords": [
+      "Colors",
+      "Water",
+      "Gulal",
+      "Pichkari",
+      "March"
+    ]
+  },
+  {
+    "word": "Butter Chicken",
+    "category": "Food",
+    "forbiddenWords": [
+      "Gravy",
+      "Tomato",
+      "Naan",
+      "Cream",
+      "Punjab"
+    ]
+  },
+  {
+    "word": "Pani Puri",
+    "category": "Street Food",
+    "forbiddenWords": [
+      "Gol Gappe",
+      "Spicy Water",
+      "Puri",
+      "Sev",
+      "Chat"
+    ]
+  },
+  {
+    "word": "Smartphone",
+    "category": "Technology",
+    "forbiddenWords": [
+      "Screen",
+      "Apple",
+      "Android",
+      "Call",
+      "App"
+    ]
+  },
+  {
+    "word": "Aeroplane",
+    "category": "Transport",
+    "forbiddenWords": [
+      "Fly",
+      "Sky",
+      "Airport",
+      "Wings",
+      "Pilot"
+    ]
+  },
+  {
+    "word": "Chocolate",
+    "category": "Food",
+    "forbiddenWords": [
+      "Sweet",
+      "Cocoa",
+      "Dairy Milk",
+      "Brown",
+      "Candy"
+    ]
+  },
+  {
+    "word": "Football",
+    "category": "Sports",
+    "forbiddenWords": [
+      "Soccer",
+      "Goal",
+      "Kick",
+      "Messi",
+      "Ronaldo"
+    ]
+  },
+  {
+    "word": "Hospital",
+    "category": "Place",
+    "forbiddenWords": [
+      "Doctor",
+      "Patient",
+      "Nurse",
+      "Medicine",
+      "Sick"
+    ]
+  },
+  {
+    "word": "Dentist",
+    "category": "Profession",
+    "forbiddenWords": [
+      "Teeth",
+      "Toothache",
+      "Drill",
+      "Mouth",
+      "Clinic"
+    ]
+  },
+  {
+    "word": "Wedding",
+    "category": "Event",
+    "forbiddenWords": [
+      "Bride",
+      "Groom",
+      "Marriage",
+      "Ring",
+      "Barat"
+    ]
+  },
+  {
+    "word": "Netflix",
+    "category": "Entertainment",
+    "forbiddenWords": [
+      "Stream",
+      "Series",
+      "Chill",
+      "Movie",
+      "Subscription"
+    ]
+  },
+  {
+    "word": "Instagram",
+    "category": "Social Media",
+    "forbiddenWords": [
+      "Reels",
+      "Photo",
+      "Stories",
+      "Followers",
+      "Post"
+    ]
+  },
+  {
+    "word": "Pizza",
+    "category": "Food",
+    "forbiddenWords": [
+      "Cheese",
+      "Crust",
+      "Toppings",
+      "Slice",
+      "Italian"
+    ]
+  },
+  {
+    "word": "Gym",
+    "category": "Fitness",
+    "forbiddenWords": [
+      "Workout",
+      "Weights",
+      "Exercise",
+      "Muscles",
+      "Trainer"
+    ]
+  },
+  {
+    "word": "Traffic",
+    "category": "City",
+    "forbiddenWords": [
+      "Jam",
+      "Cars",
+      "Road",
+      "Signal",
+      "Horn"
+    ]
+  },
+  {
+    "word": "Monsoon",
+    "category": "Weather",
+    "forbiddenWords": [
+      "Rain",
+      "Umbrella",
+      "Clouds",
+      "Puddle",
+      "Water"
+    ]
+  },
+  {
+    "word": "Hostel",
+    "category": "College",
+    "forbiddenWords": [
+      "Roommate",
+      "Warden",
+      "Mess",
+      "Campus",
+      "Bunk"
+    ]
+  },
+  {
+    "word": "Passport",
+    "category": "Travel",
+    "forbiddenWords": [
+      "Visa",
+      "Travel",
+      "Country",
+      "Airport",
+      "Stamp"
+    ]
+  },
+  {
+    "word": "Guitar",
+    "category": "Music",
+    "forbiddenWords": [
+      "Strings",
+      "Instrument",
+      "Acoustic",
+      "Play",
+      "Rock"
+    ]
+  },
+  {
+    "word": "Clash Royale",
+    "category": "Games",
+    "forbiddenWords": [
+      "Elixir",
+      "Arena",
+      "King Tower",
+      "Cards",
+      "Supercell"
+    ]
+  },
+  {
+    "word": "Maggi",
+    "category": "Food",
+    "forbiddenWords": [
+      "Noodles",
+      "Two Minutes",
+      "Tastemaker",
+      "Nestle",
+      "Snack"
+    ]
+  },
+  {
+    "word": "Ludo",
+    "category": "Board Games",
+    "forbiddenWords": [
+      "Dice",
+      "Tokens",
+      "Board",
+      "Home",
+      "Four Colors"
+    ]
+  },
+  {
+    "word": "PUBG",
+    "category": "Games",
+    "forbiddenWords": [
+      "Battle Royale",
+      "Winner Chicken",
+      "Airdrop",
+      "Helmet",
+      "Shoot"
+    ]
+  },
+  {
+    "word": "Metro",
+    "category": "Transport",
+    "forbiddenWords": [
+      "Train",
+      "Station",
+      "Token",
+      "Underground",
+      "Card"
+    ]
+  },
+  {
+    "word": "Barista",
+    "category": "Profession",
+    "forbiddenWords": [
+      "Coffee",
+      "Cafe",
+      "Espresso",
+      "Starbucks",
+      "Brew"
+    ]
+  },
+  {
+    "word": "Amusement Park",
+    "category": "Leisure",
+    "forbiddenWords": [
+      "Rollercoaster",
+      "Rides",
+      "Ferris Wheel",
+      "Tickets",
+      "Theme"
+    ]
+  },
+  {
+    "word": "Earphones",
+    "category": "Gadgets",
+    "forbiddenWords": [
+      "Music",
+      "Wires",
+      "Bluetooth",
+      "Headphones",
+      "Pods"
+    ]
+  },
+  {
+    "word": "Sunglasses",
+    "category": "Fashion",
+    "forbiddenWords": [
+      "Eyes",
+      "Dark",
+      "Shades",
+      "UV",
+      "Summer"
+    ]
+  },
+  {
+    "word": "Museum",
+    "category": "Culture",
+    "forbiddenWords": [
+      "History",
+      "Art",
+      "Artifacts",
+      "Exhibition",
+      "Guide"
+    ]
+  },
+  {
+    "word": "Library",
+    "category": "Education",
+    "forbiddenWords": [
+      "Books",
+      "Quiet",
+      "Read",
+      "Borrow",
+      "Study"
+    ]
+  },
+  {
+    "word": "Microwave",
+    "category": "Appliances",
+    "forbiddenWords": [
+      "Heat",
+      "Kitchen",
+      "Oven",
+      "Food",
+      "Warm"
+    ]
+  },
+  {
+    "word": "Suitcase",
+    "category": "Travel",
+    "forbiddenWords": [
+      "Pack",
+      "Luggage",
+      "Wheels",
+      "Trip",
+      "Bag"
+    ]
+  },
+  {
+    "word": "Game of Thrones",
+    "category": "TV Shows",
+    "forbiddenWords": [
+      "Dragons",
+      "Stark",
+      "Iron Throne",
+      "Winter",
+      "Jon Snow"
+    ]
+  },
+  {
+    "word": "Stranger Things",
+    "category": "TV Shows",
+    "forbiddenWords": [
+      "Eleven",
+      "Upside Down",
+      "Demogorgon",
+      "Hawkins",
+      "80s"
+    ]
+  },
+  {
+    "word": "Anime",
+    "category": "Entertainment",
+    "forbiddenWords": [
+      "Japan",
+      "Naruto",
+      "Cartoons",
+      "Manga",
+      "Animation"
+    ]
+  },
+  {
+    "word": "Astronaut",
+    "category": "Professions",
+    "forbiddenWords": [
+      "Space",
+      "NASA",
+      "Moon",
+      "Rocket",
+      "Helmet"
+    ]
+  },
+  {
+    "word": "Doctor",
+    "category": "Professions",
+    "forbiddenWords": [
+      "Hospital",
+      "Medicine",
+      "Patient",
+      "Stethoscope",
+      "Sick"
+    ]
+  },
+  {
+    "word": "Detective",
+    "category": "Professions",
+    "forbiddenWords": [
+      "Sherlock",
+      "Clues",
+      "Crime",
+      "Magnifying Glass",
+      "Police"
+    ]
+  },
+  {
+    "word": "YouTube",
+    "category": "Tech & Media",
+    "forbiddenWords": [
+      "Video",
+      "Subscribe",
+      "Channel",
+      "Vlog",
+      "Views"
+    ]
+  },
+  {
+    "word": "Coffee",
+    "category": "Food & Drinks",
+    "forbiddenWords": [
+      "Tea",
+      "Espresso",
+      "Caffeine",
+      "Cup",
+      "Morning"
+    ]
+  },
+  {
+    "word": "Goa",
+    "category": "Places",
+    "forbiddenWords": [
+      "Beach",
+      "Party",
+      "Shacks",
+      "Holiday",
+      "Sea"
+    ]
+  },
+  {
+    "word": "Popcorn",
+    "category": "Snacks",
+    "forbiddenWords": [
+      "Cinema",
+      "Corn",
+      "Butter",
+      "Movie",
+      "Tub"
+    ]
+  },
+  {
+    "word": "Elevator",
+    "category": "Objects",
+    "forbiddenWords": [
+      "Lift",
+      "Floor",
+      "Buttons",
+      "Building",
+      "Stairs"
+    ]
+  },
+  {
+    "word": "Birthday",
+    "category": "Celebration",
+    "forbiddenWords": [
+      "Cake",
+      "Candles",
+      "Party",
+      "Age",
+      "Gift"
+    ]
+  },
+  {
+    "word": "Spider-Man",
+    "category": "Superheroes",
+    "forbiddenWords": [
+      "Web",
+      "Peter Parker",
+      "Marvel",
+      "Red",
+      "Spider"
+    ]
+  },
+  {
+    "word": "Batman",
+    "category": "Superheroes",
+    "forbiddenWords": [
+      "Gotham",
+      "Joker",
+      "Dark Knight",
+      "Batmobile",
+      "Cave"
+    ]
+  },
+  {
+    "word": "Selfie",
+    "category": "Social Media",
+    "forbiddenWords": [
+      "Photo",
+      "Camera",
+      "Front",
+      "Pose",
+      "Smile"
+    ]
+  },
+  {
+    "word": "WiFi",
+    "category": "Tech",
+    "forbiddenWords": [
+      "Internet",
+      "Password",
+      "Router",
+      "Network",
+      "Connect"
+    ]
+  },
+  {
+    "word": "Ice Cream",
+    "category": "Desserts",
+    "forbiddenWords": [
+      "Cold",
+      "Cone",
+      "Scoop",
+      "Vanilla",
+      "Summer"
+    ]
+  },
+  {
+    "word": "Rollercoaster",
+    "category": "Theme Parks",
+    "forbiddenWords": [
+      "Ride",
+      "Theme Park",
+      "Scream",
+      "Tracks",
+      "Loop"
+    ]
+  },
+  {
+    "word": "Vampire",
+    "category": "Mythology",
+    "forbiddenWords": [
+      "Blood",
+      "Dracula",
+      "Fangs",
+      "Garlic",
+      "Bat"
+    ]
+  },
+  {
+    "word": "Zombie",
+    "category": "Pop Culture",
+    "forbiddenWords": [
+      "Undead",
+      "Brains",
+      "Bite",
+      "Apocalypse",
+      "Walking Dead"
+    ]
+  },
+  {
+    "word": "Helicopter",
+    "category": "Vehicles",
+    "forbiddenWords": [
+      "Rotor",
+      "Blades",
+      "Fly",
+      "Chopper",
+      "Pilot"
+    ]
+  },
+  {
+    "word": "Subway",
+    "category": "Transport",
+    "forbiddenWords": [
+      "Train",
+      "Underground",
+      "Metro",
+      "Tunnel",
+      "Station"
+    ]
+  },
+  {
+    "word": "Dormitory",
+    "category": "College Life",
+    "forbiddenWords": [
+      "Hostel",
+      "Roommate",
+      "Bunk Bed",
+      "College",
+      "Campus"
+    ]
+  },
+  {
+    "word": "Tattoo",
+    "category": "Art & Body",
+    "forbiddenWords": [
+      "Ink",
+      "Needle",
+      "Skin",
+      "Permanent",
+      "Design"
+    ]
+  },
+  {
+    "word": "Passport Control",
+    "category": "Travel",
+    "forbiddenWords": [
+      "Airport",
+      "Stamp",
+      "Visa",
+      "Customs",
+      "Border"
+    ]
+  },
+  {
+    "word": "Campfire",
+    "category": "Outdoors",
+    "forbiddenWords": [
+      "Wood",
+      "Marshmallow",
+      "Tent",
+      "Flames",
+      "Night"
+    ]
+  },
+  {
+    "word": "Pyramids",
+    "category": "Wonders",
+    "forbiddenWords": [
+      "Egypt",
+      "Pharaoh",
+      "Tomb",
+      "Desert",
+      "Sphinx"
+    ]
+  },
+  {
+    "word": "Supermarket",
+    "category": "Shopping",
+    "forbiddenWords": [
+      "Grocery",
+      "Cart",
+      "Aisle",
+      "Cashier",
+      "Receipt"
+    ]
+  },
+  {
+    "word": "Umbrella",
+    "category": "Objects",
+    "forbiddenWords": [
+      "Rain",
+      "Monsoon",
+      "Wet",
+      "Protect",
+      "Handle"
+    ]
+  },
+  {
+    "word": "Karaoke",
+    "category": "Parties",
+    "forbiddenWords": [
+      "Mic",
+      "Sing",
+      "Screen",
+      "Lyrics",
+      "Music"
+    ]
+  }
+]

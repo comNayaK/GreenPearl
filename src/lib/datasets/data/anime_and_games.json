@@ -1,0 +1,802 @@
+[
+  {
+    "id": "ag_001",
+    "name": "Naruto Uzumaki",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_002",
+    "name": "Sasuke Uchiha",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_003",
+    "name": "Kakashi Hatake",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_004",
+    "name": "Itachi Uchiha",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_005",
+    "name": "Goku",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_006",
+    "name": "Vegeta",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_007",
+    "name": "Monkey D. Luffy",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_008",
+    "name": "Roronoa Zoro",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_009",
+    "name": "Sanji",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_010",
+    "name": "Light Yagami",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_011",
+    "name": "L (Death Note)",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_012",
+    "name": "Eren Yeager",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_013",
+    "name": "Levi Ackerman",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_014",
+    "name": "Mikasa Ackerman",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_015",
+    "name": "Gojo Satoru",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_016",
+    "name": "Yuji Itadori",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_017",
+    "name": "Ryomen Sukuna",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_018",
+    "name": "Megumi Fushiguro",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_019",
+    "name": "Tanjiro Kamado",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_020",
+    "name": "Nezuko Kamado",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_021",
+    "name": "Zenitsu Agatsuma",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_022",
+    "name": "Inosuke Hashibira",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_023",
+    "name": "Saitama (One Punch Man)",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_024",
+    "name": "Genos",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_025",
+    "name": "Edward Elric",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_026",
+    "name": "Roy Mustang",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_027",
+    "name": "Ichigo Kurosaki",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_028",
+    "name": "Sosuke Aizen",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_029",
+    "name": "Killua Zoldyck",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_030",
+    "name": "Gon Freecss",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "easy",
+    "region": "international"
+  },
+  {
+    "id": "ag_031",
+    "name": "Hisoka",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_032",
+    "name": "Spike Spiegel",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_033",
+    "name": "Ash Ketchum",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_034",
+    "name": "Pikachu",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_035",
+    "name": "Ken Kaneki",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_036",
+    "name": "Tanjuro",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_037",
+    "name": "Rengoku Kyojuro",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_038",
+    "name": "Madara Uchiha",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_039",
+    "name": "Jiraiya",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_040",
+    "name": "Minato Namikaze",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_041",
+    "name": "Tsunade",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_042",
+    "name": "Orochimaru",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_043",
+    "name": "Shoto Todoroki",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_044",
+    "name": "Izuku Midoriya",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_045",
+    "name": "Bakugo Katsuki",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_046",
+    "name": "All Might",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_047",
+    "name": "Guts (Berserk)",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_048",
+    "name": "Shinji Ikari",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_049",
+    "name": "Asuka Langley",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_050",
+    "name": "Lelouch Lamperouge",
+    "category": "gaming_anime",
+    "subcategory": "anime_characters",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_051",
+    "name": "Grand Theft Auto V",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_052",
+    "name": "Minecraft",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_053",
+    "name": "Red Dead Redemption 2",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_054",
+    "name": "The Witcher 3: Wild Hunt",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_055",
+    "name": "Elden Ring",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_056",
+    "name": "Call of Duty: Warzone",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_057",
+    "name": "Fortnite",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_058",
+    "name": "PUBG: Battlegrounds",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_059",
+    "name": "Valorant",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_060",
+    "name": "Counter-Strike 2",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_061",
+    "name": "League of Legends",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_062",
+    "name": "Dota 2",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_063",
+    "name": "Apex Legends",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_064",
+    "name": "Overwatch 2",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_065",
+    "name": "Clash of Clans",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_066",
+    "name": "Brawl Stars",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_067",
+    "name": "Subway Surfers",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_068",
+    "name": "Candy Crush Saga",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_069",
+    "name": "Temple Run",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_070",
+    "name": "Among Us",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_071",
+    "name": "FIFA / EA Sports FC",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_072",
+    "name": "God of War",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_073",
+    "name": "The Last of Us",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_074",
+    "name": "Spider-Man (PS5)",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_075",
+    "name": "Cyberpunk 2077",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "ag_076",
+    "name": "Assassin's Creed: Black Flag",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_077",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_078",
+    "name": "Super Mario Odyssey",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_079",
+    "name": "Dark Souls",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_080",
+    "name": "Bloodborne",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_081",
+    "name": "Sekiro: Shadows Die Twice",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_082",
+    "name": "Hollow Knight",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_083",
+    "name": "Terraria",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_084",
+    "name": "Stardew Valley",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_085",
+    "name": "Roblox",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_086",
+    "name": "Genshin Impact",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_087",
+    "name": "Honkai: Star Rail",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_088",
+    "name": "Rocket League",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_089",
+    "name": "Fall Guys",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_090",
+    "name": "Need for Speed: Most Wanted",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_091",
+    "name": "Far Cry 3",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_092",
+    "name": "BioShock",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_093",
+    "name": "Half-Life 2",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_094",
+    "name": "Portal 2",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_095",
+    "name": "Resident Evil 4",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_096",
+    "name": "Street Fighter 6",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_097",
+    "name": "Tekken 8",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_098",
+    "name": "Mortal Kombat 1",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_099",
+    "name": "Halo: Combat Evolved",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "ag_100",
+    "name": "Doom Eternal",
+    "category": "gaming_anime",
+    "subcategory": "video_games",
+    "difficulty": "hard",
+    "region": "international"
+  }
+]

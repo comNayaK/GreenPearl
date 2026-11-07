@@ -1,0 +1,62 @@
+// Prisma schema for GreenPearl Party Games Platform
+// Defaults to SQLite for seamless local execution; production can point to PostgreSQL.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Room {
+  id          String        @id @default(uuid())
+  code        String        @unique
+  hostId      String
+  playStyle   String        @default("ONLINE") // LOCAL, ONLINE, HYBRID
+  gameMode    String        @default("IMPOSTER")
+  status      String        @default("LOBBY") // LOBBY, PLAYING, ROUND_OVER, GAME_OVER
+  settings    String        @default("{}") // JSON string of room configurations
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+  players     Player[]
+  gameSessions GameSession[]
+}
+
+model Player {
+  id          String   @id @default(uuid())
+  roomCode    String
+  name        String
+  avatar      String   @default("default")
+  isHost      Boolean  @default(false)
+  isReady     Boolean  @default(false)
+  isConnected Boolean  @default(true)
+  score       Int      @default(0)
+  joinedAt    DateTime @default(now())
+  room        Room     @relation(fields: [roomCode], references: [code], onDelete: Cascade)
+}
+
+model GameSession {
+  id          String   @id @default(uuid())
+  roomCode    String
+  gameType    String
+  roundNumber Int      @default(1)
+  scores      String   @default("{}") // JSON string of scores
+  winner      String?
+  startedAt   DateTime @default(now())
+  endedAt     DateTime?
+  room        Room     @relation(fields: [roomCode], references: [code], onDelete: Cascade)
+}
+
+model CustomWord {
+  id          String   @id @default(uuid())
+  name        String
+  category    String
+  subcategory String?
+  difficulty  String   @default("medium")
+  region      String?  @default("india")
+  aliases     String   @default("[]") // JSON string array
+  createdAt   DateTime @default(now())
+}
+

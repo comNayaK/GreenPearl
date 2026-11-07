@@ -1,0 +1,762 @@
+[
+  {
+    "id": "tv_001",
+    "name": "Sacred Games",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_002",
+    "name": "Mirzapur",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_003",
+    "name": "The Family Man",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_004",
+    "name": "Panchayat",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_005",
+    "name": "Paatal Lok",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_006",
+    "name": "Scam 1992: The Harshad Mehta Story",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_007",
+    "name": "Kota Factory",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_008",
+    "name": "Gullak",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_009",
+    "name": "Special OPS",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_010",
+    "name": "Asur",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_011",
+    "name": "Aspirants",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_012",
+    "name": "Delhi Crime",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_013",
+    "name": "Farzi",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_014",
+    "name": "Taarak Mehta Ka Ooltah Chashmah",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_015",
+    "name": "CID",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_016",
+    "name": "Sarabhai vs Sarabhai",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_017",
+    "name": "Khichdi",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_018",
+    "name": "Bhabiji Ghar Par Hain!",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_019",
+    "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_020",
+    "name": "Kahaani Ghar Ghar Kii",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_021",
+    "name": "Kasautii Zindagii Kay",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_022",
+    "name": "Kaun Banega Crorepati",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_023",
+    "name": "Bigg Boss",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_024",
+    "name": "The Kapil Sharma Show",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_025",
+    "name": "Comedy Nights with Kapil",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_026",
+    "name": "Indian Idol",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_027",
+    "name": "Dance India Dance",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_028",
+    "name": "Khatron Ke Khiladi",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_029",
+    "name": "Roadies",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_030",
+    "name": "Splitsvilla",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "tv_031",
+    "name": "Shaktimaan",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_032",
+    "name": "Office Office",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_033",
+    "name": "F.I.R.",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_034",
+    "name": "Son Pari",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_035",
+    "name": "Shararat",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_036",
+    "name": "Karishma Kaa Karishma",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_037",
+    "name": "Vikram Aur Betaal",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_038",
+    "name": "Malgudi Days",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_039",
+    "name": "Dekh Bhai Dekh",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_040",
+    "name": "Tu Tu Main Main",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_041",
+    "name": "Aahat",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_042",
+    "name": "Ssshhhh... Koi Hai",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_043",
+    "name": "Adaalat",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_044",
+    "name": "Crime Patrol",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_045",
+    "name": "Savdhaan India",
+    "category": "entertainment",
+    "subcategory": "indian_tv",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "tv_046",
+    "name": "Breaking Bad",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_047",
+    "name": "Game of Thrones",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_048",
+    "name": "Stranger Things",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_049",
+    "name": "The Office (US)",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_050",
+    "name": "Friends",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_051",
+    "name": "Sherlock",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_052",
+    "name": "Peaky Blinders",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_053",
+    "name": "Better Call Saul",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_054",
+    "name": "The Sopranos",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_055",
+    "name": "The Wire",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_056",
+    "name": "Succession",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_057",
+    "name": "Chernobyl",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_058",
+    "name": "Narcos",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_059",
+    "name": "Money Heist (La Casa de Papel)",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_060",
+    "name": "Squid Game",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_061",
+    "name": "Black Mirror",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_062",
+    "name": "The Boys",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_063",
+    "name": "House of the Dragon",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_064",
+    "name": "Ted Lasso",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_065",
+    "name": "The Crown",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_066",
+    "name": "Fargo",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_067",
+    "name": "True Detective",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_068",
+    "name": "Dark",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_069",
+    "name": "Mindhunter",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_070",
+    "name": "Fleabag",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_071",
+    "name": "Modern Family",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_072",
+    "name": "Brooklyn Nine-Nine",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_073",
+    "name": "How I Met Your Mother",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_074",
+    "name": "The Big Bang Theory",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_075",
+    "name": "Seinfeld",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "tv_076",
+    "name": "Parks and Recreation",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_077",
+    "name": "Community",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_078",
+    "name": "It's Always Sunny in Philadelphia",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_079",
+    "name": "Rick and Morty",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_080",
+    "name": "BoJack Horseman",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_081",
+    "name": "The Mandalorian",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_082",
+    "name": "The Last of Us (TV)",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_083",
+    "name": "Severance",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_084",
+    "name": "Loki",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_085",
+    "name": "Daredevil",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_086",
+    "name": "Lost",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_087",
+    "name": "Prison Break",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_088",
+    "name": "Dexter",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_089",
+    "name": "Homeland",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_090",
+    "name": "Mad Men",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_091",
+    "name": "House M.D.",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_092",
+    "name": "Grey's Anatomy",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_093",
+    "name": "Suits",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_094",
+    "name": "White Collar",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "tv_095",
+    "name": "Doctor Who",
+    "category": "entertainment",
+    "subcategory": "international_tv",
+    "difficulty": "hard",
+    "region": "international"
+  }
+]

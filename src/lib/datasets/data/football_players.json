@@ -1,0 +1,6202 @@
+[
+  {
+    "id": "fb_p_001",
+    "name": "Erling Haaland",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 91,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Norway",
+    "basePrice": 12,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 89,
+      "shooting": 93,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 45,
+      "physical": 88
+    }
+  },
+  {
+    "id": "fb_p_002",
+    "name": "Kylian Mbappé",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 91,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "France",
+    "basePrice": 12,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 97,
+      "shooting": 90,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_003",
+    "name": "Vinicius Junior",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 90,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Brazil",
+    "basePrice": 11,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 95,
+      "shooting": 84,
+      "passing": 81,
+      "dribbling": 91,
+      "defending": 29,
+      "physical": 69
+    }
+  },
+  {
+    "id": "fb_p_004",
+    "name": "Harry Kane",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 90,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "England",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 69,
+      "shooting": 93,
+      "passing": 84,
+      "dribbling": 83,
+      "defending": 49,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_005",
+    "name": "Mohamed Salah",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 89,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Egypt",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 89,
+      "shooting": 88,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 45,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_006",
+    "name": "Robert Lewandowski",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 88,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Poland",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 75,
+      "shooting": 91,
+      "passing": 79,
+      "dribbling": 86,
+      "defending": 44,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_007",
+    "name": "Bukayo Saka",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 87,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 9,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 83,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 65,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_008",
+    "name": "Phil Foden",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 88,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 85,
+      "shooting": 86,
+      "passing": 87,
+      "dribbling": 90,
+      "defending": 56,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_009",
+    "name": "Son Heung-min",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 87,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "South Korea",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 87,
+      "shooting": 89,
+      "passing": 84,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_010",
+    "name": "Antoine Griezmann",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 88,
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "nationality": "France",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 80,
+      "shooting": 88,
+      "passing": 88,
+      "dribbling": 88,
+      "defending": 58,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_011",
+    "name": "Lautaro Martinez",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 89,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Argentina",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 82,
+      "shooting": 88,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 48,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_012",
+    "name": "Victor Osimhen",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 87,
+    "club": "Galatasaray",
+    "league": "Super Lig",
+    "nationality": "Nigeria",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 90,
+      "shooting": 85,
+      "passing": 66,
+      "dribbling": 80,
+      "defending": 42,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_013",
+    "name": "Rafael Leao",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "Portugal",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 93,
+      "shooting": 81,
+      "passing": 77,
+      "dribbling": 88,
+      "defending": 32,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_014",
+    "name": "Khvicha Kvaratskhelia",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Georgia",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 82,
+      "passing": 81,
+      "dribbling": 87,
+      "defending": 40,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_015",
+    "name": "Cole Palmer",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 82,
+      "shooting": 85,
+      "passing": 86,
+      "dribbling": 86,
+      "defending": 52,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_016",
+    "name": "Lamine Yamal",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 78,
+      "passing": 83,
+      "dribbling": 88,
+      "defending": 35,
+      "physical": 55
+    }
+  },
+  {
+    "id": "fb_p_017",
+    "name": "Rodrygo",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Brazil",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 89,
+      "shooting": 82,
+      "passing": 80,
+      "dribbling": 87,
+      "defending": 31,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_018",
+    "name": "Alexander Isak",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "nationality": "Sweden",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 88,
+      "shooting": 84,
+      "passing": 74,
+      "dribbling": 83,
+      "defending": 38,
+      "physical": 73
+    }
+  },
+  {
+    "id": "fb_p_019",
+    "name": "Ollie Watkins",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 84,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 44,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_020",
+    "name": "Julian Alvarez",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "nationality": "Argentina",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 85,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 55,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_021",
+    "name": "Darwin Nunez",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Uruguay",
+    "basePrice": 6,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 90,
+      "shooting": 81,
+      "passing": 71,
+      "dribbling": 77,
+      "defending": 42,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_022",
+    "name": "Marcus Rashford",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 6,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 89,
+      "shooting": 82,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 41,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_023",
+    "name": "Gabriel Martinelli",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 89,
+      "shooting": 79,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 45,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_024",
+    "name": "Kai Havertz",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Germany",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 80,
+      "shooting": 80,
+      "passing": 79,
+      "dribbling": 82,
+      "defending": 50,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_025",
+    "name": "Luis Diaz",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Colombia",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 89,
+      "shooting": 80,
+      "passing": 76,
+      "dribbling": 87,
+      "defending": 35,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_026",
+    "name": "Cristiano Ronaldo",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "Al Nassr",
+    "league": "Saudi Pro League",
+    "nationality": "Portugal",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 77,
+      "shooting": 88,
+      "passing": 75,
+      "dribbling": 80,
+      "defending": 34,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_027",
+    "name": "Lionel Messi",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 88,
+    "club": "Inter Miami",
+    "league": "MLS",
+    "nationality": "Argentina",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 79,
+      "shooting": 87,
+      "passing": 90,
+      "dribbling": 92,
+      "defending": 33,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_028",
+    "name": "Neymar Jr",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 87,
+    "club": "Al Hilal",
+    "league": "Saudi Pro League",
+    "nationality": "Brazil",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 81,
+      "passing": 84,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 61
+    }
+  },
+  {
+    "id": "fb_p_029",
+    "name": "Karim Benzema",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "Al Ittihad",
+    "league": "Saudi Pro League",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 86,
+      "passing": 82,
+      "dribbling": 85,
+      "defending": 39,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_030",
+    "name": "Dusan Vlahovic",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "Serbia",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 76,
+      "shooting": 85,
+      "passing": 66,
+      "dribbling": 77,
+      "defending": 28,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_031",
+    "name": "Serhou Guirassy",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Guinea",
+    "basePrice": 5,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 79,
+      "shooting": 84,
+      "passing": 70,
+      "dribbling": 76,
+      "defending": 38,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_032",
+    "name": "Bradley Barcola",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "France",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 90,
+      "shooting": 76,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 38,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_033",
+    "name": "Ousmane Dembélé",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "France",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 93,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 36,
+      "physical": 58
+    }
+  },
+  {
+    "id": "fb_p_034",
+    "name": "Kingsley Coman",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 90,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 86,
+      "defending": 30,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_035",
+    "name": "Leroy Sané",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 91,
+      "shooting": 82,
+      "passing": 79,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 71
+    }
+  },
+  {
+    "id": "fb_p_036",
+    "name": "Nico Williams",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Athletic Bilbao",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 93,
+      "shooting": 79,
+      "passing": 80,
+      "dribbling": 86,
+      "defending": 39,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_037",
+    "name": "Raphinha",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 85,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Brazil",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 86,
+      "defending": 52,
+      "physical": 73
+    }
+  },
+  {
+    "id": "fb_p_038",
+    "name": "Rodri",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 91,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Spain",
+    "basePrice": 11,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 66,
+      "shooting": 80,
+      "passing": 86,
+      "dribbling": 84,
+      "defending": 87,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_039",
+    "name": "Kevin De Bruyne",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 90,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 71,
+      "shooting": 87,
+      "passing": 94,
+      "dribbling": 87,
+      "defending": 65,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_040",
+    "name": "Jude Bellingham",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 90,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "England",
+    "basePrice": 11,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 80,
+      "shooting": 87,
+      "passing": 83,
+      "dribbling": 88,
+      "defending": 78,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_041",
+    "name": "Martin Odegaard",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 89,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Norway",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 75,
+      "shooting": 82,
+      "passing": 89,
+      "dribbling": 88,
+      "defending": 64,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_042",
+    "name": "Federico Valverde",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 88,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Uruguay",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 88,
+      "shooting": 82,
+      "passing": 84,
+      "dribbling": 84,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_043",
+    "name": "Declan Rice",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 87,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 75,
+      "shooting": 70,
+      "passing": 82,
+      "dribbling": 79,
+      "defending": 86,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_044",
+    "name": "Bernardo Silva",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 88,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Portugal",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 73,
+      "shooting": 78,
+      "passing": 86,
+      "dribbling": 92,
+      "defending": 69,
+      "physical": 73
+    }
+  },
+  {
+    "id": "fb_p_045",
+    "name": "Bruno Fernandes",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 87,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Portugal",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 74,
+      "shooting": 84,
+      "passing": 89,
+      "dribbling": 83,
+      "defending": 67,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_046",
+    "name": "Florian Wirtz",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 88,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 87,
+      "dribbling": 89,
+      "defending": 53,
+      "physical": 69
+    }
+  },
+  {
+    "id": "fb_p_047",
+    "name": "Jamal Musiala",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 87,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 9,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 85,
+      "shooting": 81,
+      "passing": 82,
+      "dribbling": 90,
+      "defending": 42,
+      "physical": 65
+    }
+  },
+  {
+    "id": "fb_p_048",
+    "name": "Nicolo Barella",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 87,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 79,
+      "shooting": 78,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 77,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_049",
+    "name": "Alexis Mac Allister",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 86,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 72,
+      "shooting": 79,
+      "passing": 84,
+      "dribbling": 83,
+      "defending": 78,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_050",
+    "name": "Aurelien Tchouameni",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 85,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "France",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 75,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 81,
+      "defending": 83,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_051",
+    "name": "Eduardo Camavinga",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 81,
+      "shooting": 68,
+      "passing": 80,
+      "dribbling": 82,
+      "defending": 80,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_052",
+    "name": "Pedri",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 86,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 85,
+      "dribbling": 88,
+      "defending": 68,
+      "physical": 73
+    }
+  },
+  {
+    "id": "fb_p_053",
+    "name": "Gavi",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 76,
+      "shooting": 66,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 68,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_054",
+    "name": "Luka Modric",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 86,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Croatia",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 71,
+      "shooting": 76,
+      "passing": 89,
+      "dribbling": 87,
+      "defending": 72,
+      "physical": 65
+    }
+  },
+  {
+    "id": "fb_p_055",
+    "name": "Granit Xhaka",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 86,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Switzerland",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 56,
+      "shooting": 77,
+      "passing": 86,
+      "dribbling": 76,
+      "defending": 80,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_056",
+    "name": "Hakan Calhanoglu",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 86,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Turkey",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 68,
+      "shooting": 81,
+      "passing": 87,
+      "dribbling": 82,
+      "defending": 72,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_057",
+    "name": "Frenkie de Jong",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 87,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Netherlands",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 81,
+      "shooting": 69,
+      "passing": 86,
+      "dribbling": 87,
+      "defending": 77,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_058",
+    "name": "Joshua Kimmich",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 86,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 68,
+      "shooting": 73,
+      "passing": 88,
+      "dribbling": 82,
+      "defending": 81,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_059",
+    "name": "Ilkay Gundogan",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 87,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Germany",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 64,
+      "shooting": 80,
+      "passing": 86,
+      "dribbling": 84,
+      "defending": 72,
+      "physical": 71
+    }
+  },
+  {
+    "id": "fb_p_060",
+    "name": "Dominik Szoboszlai",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Hungary",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 83,
+      "shooting": 82,
+      "passing": 83,
+      "dribbling": 82,
+      "defending": 64,
+      "physical": 75
+    }
+  },
+  {
+    "id": "fb_p_061",
+    "name": "James Maddison",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 85,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 74,
+      "shooting": 81,
+      "passing": 86,
+      "dribbling": 85,
+      "defending": 53,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_062",
+    "name": "Lucas Paqueta",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 75,
+      "shooting": 78,
+      "passing": 81,
+      "dribbling": 84,
+      "defending": 68,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_063",
+    "name": "Enzo Fernandez",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 6,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 75,
+      "passing": 83,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_064",
+    "name": "Moises Caicedo",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "Ecuador",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 63,
+      "passing": 77,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_065",
+    "name": "Warren Zaire-Emery",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "France",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 77,
+      "shooting": 70,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 76,
+      "physical": 79
+    }
+  },
+  {
+    "id": "fb_p_066",
+    "name": "Vitinha",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 85,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "Portugal",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 75,
+      "shooting": 74,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 72,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_067",
+    "name": "Dani Olmo",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 84,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 77,
+      "shooting": 80,
+      "passing": 82,
+      "dribbling": 85,
+      "defending": 52,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_068",
+    "name": "Virgil van Dijk",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 89,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 78,
+      "shooting": 60,
+      "passing": 72,
+      "dribbling": 72,
+      "defending": 89,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_069",
+    "name": "William Saliba",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 87,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "France",
+    "basePrice": 9,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 82,
+      "shooting": 39,
+      "passing": 71,
+      "dribbling": 73,
+      "defending": 87,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_070",
+    "name": "Ruben Dias",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 88,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Portugal",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 66,
+      "shooting": 39,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 89,
+      "physical": 87
+    }
+  },
+  {
+    "id": "fb_p_071",
+    "name": "Antonio Rudiger",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 88,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Germany",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 82,
+      "shooting": 55,
+      "passing": 71,
+      "dribbling": 68,
+      "defending": 86,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_072",
+    "name": "Gabriel Magalhaes",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 86,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 69,
+      "shooting": 40,
+      "passing": 66,
+      "dribbling": 64,
+      "defending": 86,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_073",
+    "name": "Alessandro Bastoni",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 87,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 74,
+      "shooting": 45,
+      "passing": 78,
+      "dribbling": 76,
+      "defending": 87,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_074",
+    "name": "Marquinhos",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 87,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "Brazil",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 56,
+      "passing": 75,
+      "dribbling": 74,
+      "defending": 89,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_075",
+    "name": "John Stones",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 85,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 71,
+      "shooting": 52,
+      "passing": 78,
+      "dribbling": 79,
+      "defending": 85,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_076",
+    "name": "Theo Hernandez",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 87,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "France",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 95,
+      "shooting": 73,
+      "passing": 76,
+      "dribbling": 84,
+      "defending": 79,
+      "physical": 88
+    }
+  },
+  {
+    "id": "fb_p_077",
+    "name": "Alphonso Davies",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "Canada",
+    "basePrice": 7,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 95,
+      "shooting": 68,
+      "passing": 77,
+      "dribbling": 84,
+      "defending": 74,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_078",
+    "name": "Trent Alexander-Arnold",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 86,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 76,
+      "shooting": 71,
+      "passing": 90,
+      "dribbling": 80,
+      "defending": 79,
+      "physical": 73
+    }
+  },
+  {
+    "id": "fb_p_079",
+    "name": "Achraf Hakimi",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "Morocco",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 92,
+      "shooting": 75,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_080",
+    "name": "Kyle Walker",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 87,
+      "shooting": 63,
+      "passing": 76,
+      "dribbling": 77,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_081",
+    "name": "Andy Robertson",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 85,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Scotland",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 80,
+      "shooting": 62,
+      "passing": 81,
+      "dribbling": 79,
+      "defending": 81,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_082",
+    "name": "Dani Carvajal",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 86,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 81,
+      "shooting": 54,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 82,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_083",
+    "name": "Federico Dimarco",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 81,
+      "shooting": 76,
+      "passing": 84,
+      "dribbling": 79,
+      "defending": 76,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_084",
+    "name": "Jeremie Frimpong",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Netherlands",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 94,
+      "shooting": 75,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 73,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_085",
+    "name": "Alejandro Grimaldo",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 86,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Spain",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 79,
+      "passing": 86,
+      "dribbling": 83,
+      "defending": 76,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_086",
+    "name": "Dayot Upamecano",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "France",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 42,
+      "passing": 65,
+      "dribbling": 69,
+      "defending": 81,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_087",
+    "name": "Ronald Araujo",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 85,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Uruguay",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 79,
+      "shooting": 51,
+      "passing": 65,
+      "dribbling": 63,
+      "defending": 85,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_088",
+    "name": "Jules Koundé",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 85,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "France",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 45,
+      "passing": 74,
+      "dribbling": 74,
+      "defending": 85,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_089",
+    "name": "Josko Gvardiol",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Croatia",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 64,
+      "passing": 75,
+      "dribbling": 76,
+      "defending": 82,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_090",
+    "name": "Gleison Bremer",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 86,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "Brazil",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 80,
+      "shooting": 50,
+      "passing": 60,
+      "dribbling": 62,
+      "defending": 86,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_091",
+    "name": "Micky van de Ven",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 42,
+      "passing": 68,
+      "dribbling": 72,
+      "defending": 82,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_092",
+    "name": "Cristian Romero",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 72,
+      "shooting": 46,
+      "passing": 62,
+      "dribbling": 66,
+      "defending": 84,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_093",
+    "name": "Manuel Akanji",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Switzerland",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 79,
+      "shooting": 48,
+      "passing": 71,
+      "dribbling": 74,
+      "defending": 83,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_094",
+    "name": "Lisandro Martinez",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 76,
+      "shooting": 60,
+      "passing": 79,
+      "dribbling": 78,
+      "defending": 83,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_095",
+    "name": "Pau Cubarsi",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 78,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 70,
+      "shooting": 35,
+      "passing": 78,
+      "dribbling": 72,
+      "defending": 79,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_096",
+    "name": "Alisson Becker",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 89,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 86,
+      "shooting": 85,
+      "passing": 85,
+      "dribbling": 89,
+      "defending": 56,
+      "physical": 90
+    }
+  },
+  {
+    "id": "fb_p_097",
+    "name": "Thibaut Courtois",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 89,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "nationality": "Belgium",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 85,
+      "shooting": 89,
+      "passing": 76,
+      "dribbling": 88,
+      "defending": 46,
+      "physical": 90
+    }
+  },
+  {
+    "id": "fb_p_098",
+    "name": "Ederson",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 88,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 86,
+      "shooting": 82,
+      "passing": 91,
+      "dribbling": 86,
+      "defending": 64,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_099",
+    "name": "Marc-Andre ter Stegen",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 89,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "nationality": "Germany",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 86,
+      "shooting": 85,
+      "passing": 89,
+      "dribbling": 87,
+      "defending": 47,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_100",
+    "name": "Jan Oblak",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 88,
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "nationality": "Slovenia",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 85,
+      "shooting": 90,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 50,
+      "physical": 87
+    }
+  },
+  {
+    "id": "fb_p_101",
+    "name": "Gianluigi Donnarumma",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 89,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "Italy",
+    "basePrice": 8,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 90,
+      "shooting": 84,
+      "passing": 79,
+      "dribbling": 89,
+      "defending": 52,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_102",
+    "name": "Mike Maignan",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 87,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "France",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 85,
+      "shooting": 83,
+      "passing": 85,
+      "dribbling": 89,
+      "defending": 51,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_103",
+    "name": "David Raya",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 85,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Spain",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 83,
+      "shooting": 82,
+      "passing": 85,
+      "dribbling": 86,
+      "defending": 48,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_104",
+    "name": "Emiliano Martinez",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 87,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 85,
+      "shooting": 83,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 58,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_105",
+    "name": "Yann Sommer",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 87,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Switzerland",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 84,
+      "passing": 80,
+      "dribbling": 88,
+      "defending": 50,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_106",
+    "name": "Gregor Kobel",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 88,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Switzerland",
+    "basePrice": 7,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 86,
+      "shooting": 85,
+      "passing": 75,
+      "dribbling": 89,
+      "defending": 48,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_107",
+    "name": "Guglielmo Vicario",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 84,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Italy",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 83,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 48,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_108",
+    "name": "Manuel Neuer",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 86,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 84,
+      "passing": 88,
+      "dribbling": 85,
+      "defending": 56,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_109",
+    "name": "Jordan Pickford",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 83,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 83,
+      "shooting": 81,
+      "passing": 86,
+      "dribbling": 84,
+      "defending": 48,
+      "physical": 79
+    }
+  },
+  {
+    "id": "fb_p_110",
+    "name": "Unai Simon",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 85,
+    "club": "Athletic Bilbao",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 83,
+      "passing": 77,
+      "dribbling": 86,
+      "defending": 50,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_111",
+    "name": "Zinedine Zidane",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 94,
+    "club": "Real Madrid Legends",
+    "league": "Icons",
+    "nationality": "France",
+    "basePrice": 15,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 85,
+      "shooting": 88,
+      "passing": 96,
+      "dribbling": 95,
+      "defending": 75,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_112",
+    "name": "Ronaldo Nazario",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 94,
+    "club": "Inter Legends",
+    "league": "Icons",
+    "nationality": "Brazil",
+    "basePrice": 15,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 95,
+      "shooting": 93,
+      "passing": 80,
+      "dribbling": 94,
+      "defending": 45,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_113",
+    "name": "Ronaldinho",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 93,
+    "club": "Barcelona Legends",
+    "league": "Icons",
+    "nationality": "Brazil",
+    "basePrice": 14,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 91,
+      "shooting": 88,
+      "passing": 91,
+      "dribbling": 95,
+      "defending": 38,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_114",
+    "name": "Thierry Henry",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 93,
+    "club": "Arsenal Legends",
+    "league": "Icons",
+    "nationality": "France",
+    "basePrice": 14,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 94,
+      "shooting": 91,
+      "passing": 83,
+      "dribbling": 90,
+      "defending": 53,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_115",
+    "name": "Paolo Maldini",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 94,
+    "club": "AC Milan Legends",
+    "league": "Icons",
+    "nationality": "Italy",
+    "basePrice": 14,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 86,
+      "shooting": 56,
+      "passing": 75,
+      "dribbling": 70,
+      "defending": 95,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_116",
+    "name": "Wayne Rooney",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 91,
+    "club": "Man United Legends",
+    "league": "Icons",
+    "nationality": "England",
+    "basePrice": 11,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 87,
+      "shooting": 91,
+      "passing": 84,
+      "dribbling": 87,
+      "defending": 58,
+      "physical": 88
+    }
+  },
+  {
+    "id": "fb_p_117",
+    "name": "Steven Gerrard",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 91,
+    "club": "Liverpool Legends",
+    "league": "Icons",
+    "nationality": "England",
+    "basePrice": 11,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 84,
+      "shooting": 90,
+      "passing": 90,
+      "dribbling": 84,
+      "defending": 81,
+      "physical": 88
+    }
+  },
+  {
+    "id": "fb_p_118",
+    "name": "Frank Lampard",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 90,
+    "club": "Chelsea Legends",
+    "league": "Icons",
+    "nationality": "England",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 78,
+      "shooting": 92,
+      "passing": 88,
+      "dribbling": 82,
+      "defending": 75,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_119",
+    "name": "Xavi Hernandez",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 92,
+    "club": "Barcelona Legends",
+    "league": "Icons",
+    "nationality": "Spain",
+    "basePrice": 12,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 75,
+      "shooting": 78,
+      "passing": 95,
+      "dribbling": 91,
+      "defending": 72,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_120",
+    "name": "Andres Iniesta",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 92,
+    "club": "Barcelona Legends",
+    "league": "Icons",
+    "nationality": "Spain",
+    "basePrice": 12,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 78,
+      "shooting": 76,
+      "passing": 93,
+      "dribbling": 94,
+      "defending": 65,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_121",
+    "name": "Carles Puyol",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 90,
+    "club": "Barcelona Legends",
+    "league": "Icons",
+    "nationality": "Spain",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 72,
+      "shooting": 45,
+      "passing": 68,
+      "dribbling": 60,
+      "defending": 92,
+      "physical": 90
+    }
+  },
+  {
+    "id": "fb_p_122",
+    "name": "Iker Casillas",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 91,
+    "club": "Real Madrid Legends",
+    "league": "Icons",
+    "nationality": "Spain",
+    "basePrice": 10,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 88,
+      "shooting": 87,
+      "passing": 80,
+      "dribbling": 91,
+      "defending": 55,
+      "physical": 88
+    }
+  },
+  {
+    "id": "fb_p_123",
+    "name": "Sergio Ramos",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 87,
+    "club": "Sevilla",
+    "league": "La Liga",
+    "nationality": "Spain",
+    "basePrice": 8,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 73,
+      "shooting": 71,
+      "passing": 75,
+      "dribbling": 72,
+      "defending": 87,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_124",
+    "name": "Toni Kroos",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 89,
+    "club": "Real Madrid Legends",
+    "league": "La Liga",
+    "nationality": "Germany",
+    "basePrice": 9,
+    "difficulty": "easy",
+    "attributes": {
+      "pace": 58,
+      "shooting": 81,
+      "passing": 93,
+      "dribbling": 82,
+      "defending": 73,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_125",
+    "name": "Thiago Silva",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Fluminense",
+    "league": "Brasileirao",
+    "nationality": "Brazil",
+    "basePrice": 5,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 52,
+      "shooting": 54,
+      "passing": 73,
+      "dribbling": 72,
+      "defending": 84,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_126",
+    "name": "Casemiro",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 84,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 60,
+      "shooting": 73,
+      "passing": 75,
+      "dribbling": 72,
+      "defending": 85,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_127",
+    "name": "Raheem Sterling",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 86,
+      "shooting": 79,
+      "passing": 76,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_128",
+    "name": "Jack Grealish",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 75,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 51,
+      "physical": 69
+    }
+  },
+  {
+    "id": "fb_p_129",
+    "name": "Mason Mount",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 78,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 62,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_130",
+    "name": "Richarlison",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 80,
+      "passing": 72,
+      "dribbling": 81,
+      "defending": 52,
+      "physical": 79
+    }
+  },
+  {
+    "id": "fb_p_131",
+    "name": "Lucas Hernandez",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 77,
+      "shooting": 54,
+      "passing": 70,
+      "dribbling": 72,
+      "defending": 84,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_132",
+    "name": "Matthijs de Ligt",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 72,
+      "shooting": 58,
+      "passing": 64,
+      "dribbling": 68,
+      "defending": 84,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_133",
+    "name": "Kim Min-jae",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "nationality": "South Korea",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 36,
+      "passing": 64,
+      "dribbling": 66,
+      "defending": 84,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_134",
+    "name": "Kieran Trippier",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 71,
+      "shooting": 64,
+      "passing": 83,
+      "dribbling": 77,
+      "defending": 79,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_135",
+    "name": "Bruno Guimaraes",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 85,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 72,
+      "shooting": 76,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_136",
+    "name": "Sandro Tonali",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 84,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "nationality": "Italy",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 81,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 81,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_137",
+    "name": "Anthony Gordon",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 89,
+      "shooting": 78,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 58,
+      "physical": 71
+    }
+  },
+  {
+    "id": "fb_p_138",
+    "name": "Bryan Mbeumo",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Brentford",
+    "league": "Premier League",
+    "nationality": "Cameroon",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 85,
+      "shooting": 80,
+      "passing": 75,
+      "dribbling": 81,
+      "defending": 42,
+      "physical": 75
+    }
+  },
+  {
+    "id": "fb_p_139",
+    "name": "Yoane Wissa",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 79,
+    "club": "Brentford",
+    "league": "Premier League",
+    "nationality": "DR Congo",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 83,
+      "shooting": 78,
+      "passing": 71,
+      "dribbling": 79,
+      "defending": 38,
+      "physical": 71
+    }
+  },
+  {
+    "id": "fb_p_140",
+    "name": "Matheus Cunha",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Wolves",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 79,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 48,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_141",
+    "name": "Pedro Neto",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "Portugal",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 75,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 38,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_142",
+    "name": "Nicolas Jackson",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "Senegal",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 86,
+      "shooting": 78,
+      "passing": 71,
+      "dribbling": 80,
+      "defending": 38,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_143",
+    "name": "Noni Madueke",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 79,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 87,
+      "shooting": 75,
+      "passing": 73,
+      "dribbling": 83,
+      "defending": 35,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_144",
+    "name": "Levi Colwill",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 38,
+      "passing": 73,
+      "dribbling": 70,
+      "defending": 80,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_145",
+    "name": "Marc Cucurella",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "nationality": "Spain",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 79,
+      "shooting": 61,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 80,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_146",
+    "name": "Diogo Jota",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Portugal",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 82,
+      "shooting": 83,
+      "passing": 75,
+      "dribbling": 84,
+      "defending": 54,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_147",
+    "name": "Cody Gakpo",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 81,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 44,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_148",
+    "name": "Curtis Jones",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 74,
+      "passing": 80,
+      "dribbling": 81,
+      "defending": 72,
+      "physical": 75
+    }
+  },
+  {
+    "id": "fb_p_149",
+    "name": "Ryan Gravenberch",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 74,
+      "passing": 80,
+      "dribbling": 84,
+      "defending": 76,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_150",
+    "name": "Ibrahima Konate",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 79,
+      "shooting": 34,
+      "passing": 64,
+      "dribbling": 66,
+      "defending": 83,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_151",
+    "name": "Jurrien Timber",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 55,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_152",
+    "name": "Ben White",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 73,
+      "shooting": 48,
+      "passing": 76,
+      "dribbling": 75,
+      "defending": 82,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_153",
+    "name": "Thomas Partey",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Ghana",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 65,
+      "shooting": 72,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_154",
+    "name": "Leandro Trossard",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_155",
+    "name": "Mikel Merino",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 84,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Spain",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 68,
+      "shooting": 75,
+      "passing": 80,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_156",
+    "name": "Riccardo Calafiori",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 77,
+      "shooting": 62,
+      "passing": 76,
+      "dribbling": 76,
+      "defending": 80,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_157",
+    "name": "Mateo Kovacic",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Croatia",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 72,
+      "shooting": 71,
+      "passing": 83,
+      "dribbling": 86,
+      "defending": 74,
+      "physical": 73
+    }
+  },
+  {
+    "id": "fb_p_158",
+    "name": "Jeremy Doku",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 93,
+      "shooting": 72,
+      "passing": 75,
+      "dribbling": 88,
+      "defending": 32,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_159",
+    "name": "Savinho",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 87,
+      "shooting": 76,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_160",
+    "name": "Rico Lewis",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 77,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 56,
+      "passing": 78,
+      "dribbling": 79,
+      "defending": 75,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_161",
+    "name": "Kobbie Mainoo",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 75,
+      "shooting": 70,
+      "passing": 80,
+      "dribbling": 83,
+      "defending": 75,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_162",
+    "name": "Alejandro Garnacho",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 77,
+      "passing": 74,
+      "dribbling": 82,
+      "defending": 36,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_163",
+    "name": "Rasmus Hojlund",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 79,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Denmark",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 86,
+      "shooting": 79,
+      "passing": 64,
+      "dribbling": 74,
+      "defending": 35,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_164",
+    "name": "Manuel Ugarte",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 81,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Uruguay",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 58,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 82,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_165",
+    "name": "Amad Diallo",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 77,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Ivory Coast",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 74,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 38,
+      "physical": 60
+    }
+  },
+  {
+    "id": "fb_p_166",
+    "name": "Andre Onana",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 84,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Cameroon",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 83,
+      "shooting": 81,
+      "passing": 88,
+      "dribbling": 85,
+      "defending": 52,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_167",
+    "name": "Diogo Dalot",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Portugal",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 68,
+      "passing": 77,
+      "dribbling": 79,
+      "defending": 78,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_168",
+    "name": "Noussair Mazraoui",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Morocco",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 66,
+      "passing": 78,
+      "dribbling": 82,
+      "defending": 78,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_169",
+    "name": "Dejan Kulusevski",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Sweden",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 79,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 58,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_170",
+    "name": "Brennan Johnson",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 79,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Wales",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 90,
+      "shooting": 76,
+      "passing": 73,
+      "dribbling": 79,
+      "defending": 38,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_171",
+    "name": "Destiny Udogie",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 87,
+      "shooting": 65,
+      "passing": 74,
+      "dribbling": 80,
+      "defending": 78,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_172",
+    "name": "Pedro Porro",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Spain",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 83,
+      "shooting": 74,
+      "passing": 80,
+      "dribbling": 80,
+      "defending": 76,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_173",
+    "name": "Dominic Solanke",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 81,
+      "passing": 72,
+      "dribbling": 78,
+      "defending": 45,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_174",
+    "name": "Lucas Bergvall",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 74,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Sweden",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 75,
+      "shooting": 68,
+      "passing": 75,
+      "dribbling": 77,
+      "defending": 64,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_175",
+    "name": "Pape Matar Sarr",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 79,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Senegal",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 72,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 76,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_176",
+    "name": "Yves Bissouma",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "nationality": "Mali",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 68,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 80,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_177",
+    "name": "Morgan Gibbs-White",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Nottingham Forest",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 77,
+      "shooting": 75,
+      "passing": 80,
+      "dribbling": 81,
+      "defending": 58,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_178",
+    "name": "Chris Wood",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 78,
+    "club": "Nottingham Forest",
+    "league": "Premier League",
+    "nationality": "New Zealand",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 64,
+      "shooting": 80,
+      "passing": 62,
+      "dribbling": 68,
+      "defending": 38,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_179",
+    "name": "Murillo",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "Nottingham Forest",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 45,
+      "passing": 70,
+      "dribbling": 71,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_180",
+    "name": "Ola Aina",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 77,
+    "club": "Nottingham Forest",
+    "league": "Premier League",
+    "nationality": "Nigeria",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 60,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 75,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_181",
+    "name": "Matz Sels",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 78,
+    "club": "Nottingham Forest",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 76,
+      "passing": 75,
+      "dribbling": 79,
+      "defending": 48,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_182",
+    "name": "Youri Tielemans",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 58,
+      "shooting": 79,
+      "passing": 85,
+      "dribbling": 79,
+      "defending": 72,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_183",
+    "name": "John McGinn",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 81,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Scotland",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 76,
+      "passing": 79,
+      "dribbling": 79,
+      "defending": 74,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_184",
+    "name": "Amadou Onana",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 68,
+      "passing": 75,
+      "dribbling": 76,
+      "defending": 81,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_185",
+    "name": "Morgan Rogers",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 78,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 75,
+      "passing": 76,
+      "dribbling": 80,
+      "defending": 52,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_186",
+    "name": "Leon Bailey",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Jamaica",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 90,
+      "shooting": 78,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 35,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_187",
+    "name": "Ezri Konsa",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 38,
+      "passing": 68,
+      "dribbling": 69,
+      "defending": 82,
+      "physical": 79
+    }
+  },
+  {
+    "id": "fb_p_188",
+    "name": "Pau Torres",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Spain",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 40,
+      "passing": 77,
+      "dribbling": 74,
+      "defending": 83,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_189",
+    "name": "Lucas Digne",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "France",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 67,
+      "passing": 80,
+      "dribbling": 76,
+      "defending": 77,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_190",
+    "name": "Matty Cash",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 78,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Poland",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 64,
+      "passing": 72,
+      "dribbling": 74,
+      "defending": 76,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_191",
+    "name": "Jhon Duran",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 78,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "nationality": "Colombia",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 83,
+      "shooting": 80,
+      "passing": 64,
+      "dribbling": 74,
+      "defending": 38,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_192",
+    "name": "Kaoru Mitoma",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "Japan",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 86,
+      "shooting": 75,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 42,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_193",
+    "name": "Danny Welbeck",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 78,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 42,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_194",
+    "name": "Carlos Baleba",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 77,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "Cameroon",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 66,
+      "passing": 75,
+      "dribbling": 80,
+      "defending": 76,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_195",
+    "name": "Lewis Dunk",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 52,
+      "shooting": 45,
+      "passing": 74,
+      "dribbling": 66,
+      "defending": 82,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_196",
+    "name": "Jan Paul van Hecke",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 78,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 36,
+      "passing": 72,
+      "dribbling": 68,
+      "defending": 80,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_197",
+    "name": "Pervis Estupinan",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "Ecuador",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 62,
+      "passing": 75,
+      "dribbling": 78,
+      "defending": 76,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_198",
+    "name": "Bart Verbruggen",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 78,
+    "club": "Brighton",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 77,
+      "passing": 82,
+      "dribbling": 79,
+      "defending": 45,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_199",
+    "name": "Emile Smith Rowe",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 79,
+    "club": "Fulham",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 79,
+      "shooting": 76,
+      "passing": 78,
+      "dribbling": 81,
+      "defending": 48,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_200",
+    "name": "Alex Iwobi",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 77,
+    "club": "Fulham",
+    "league": "Premier League",
+    "nationality": "Nigeria",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 58,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_201",
+    "name": "Antonee Robinson",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Fulham",
+    "league": "Premier League",
+    "nationality": "USA",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 89,
+      "shooting": 55,
+      "passing": 73,
+      "dribbling": 76,
+      "defending": 77,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_202",
+    "name": "Bernd Leno",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 82,
+    "club": "Fulham",
+    "league": "Premier League",
+    "nationality": "Germany",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 83,
+      "shooting": 81,
+      "passing": 75,
+      "dribbling": 84,
+      "defending": 46,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_203",
+    "name": "Joao Gomes",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 78,
+    "club": "Wolves",
+    "league": "Premier League",
+    "nationality": "Brazil",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 75,
+      "shooting": 64,
+      "passing": 74,
+      "dribbling": 77,
+      "defending": 79,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_204",
+    "name": "Mario Lemina",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 79,
+    "club": "Wolves",
+    "league": "Premier League",
+    "nationality": "Gabon",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 70,
+      "passing": 75,
+      "dribbling": 78,
+      "defending": 80,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_205",
+    "name": "Rayan Ait-Nouri",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Wolves",
+    "league": "Premier League",
+    "nationality": "Algeria",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 65,
+      "passing": 76,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_206",
+    "name": "Liam Delap",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 76,
+    "club": "Ipswich Town",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 76,
+      "passing": 60,
+      "dribbling": 74,
+      "defending": 34,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_207",
+    "name": "Tyler Dibling",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 73,
+    "club": "Southampton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 2,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 68,
+      "passing": 72,
+      "dribbling": 78,
+      "defending": 45,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_208",
+    "name": "Facundo Buonanotte",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 76,
+    "club": "Leicester City",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 74,
+      "passing": 75,
+      "dribbling": 79,
+      "defending": 48,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_209",
+    "name": "Jamie Vardy",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 77,
+    "club": "Leicester City",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 80,
+      "passing": 65,
+      "dribbling": 74,
+      "defending": 42,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_210",
+    "name": "Mads Hermansen",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 78,
+    "club": "Leicester City",
+    "league": "Premier League",
+    "nationality": "Denmark",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 77,
+      "passing": 80,
+      "dribbling": 79,
+      "defending": 44,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_211",
+    "name": "Wout Faes",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 76,
+    "club": "Leicester City",
+    "league": "Premier League",
+    "nationality": "Belgium",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 40,
+      "passing": 64,
+      "dribbling": 66,
+      "defending": 77,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_212",
+    "name": "Harry Maguire",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 46,
+      "shooting": 55,
+      "passing": 68,
+      "dribbling": 65,
+      "defending": 81,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_213",
+    "name": "Christian Eriksen",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Denmark",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 56,
+      "shooting": 76,
+      "passing": 85,
+      "dribbling": 78,
+      "defending": 52,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_214",
+    "name": "Garancho",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Argentina",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 76,
+      "passing": 74,
+      "dribbling": 82,
+      "defending": 36,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_215",
+    "name": "Joshua Zirkzee",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 79,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "nationality": "Netherlands",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 40,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_216",
+    "name": "Mason Holgate",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 74,
+    "club": "West Brom",
+    "league": "Championship",
+    "nationality": "England",
+    "basePrice": 2,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 40,
+      "passing": 62,
+      "dribbling": 64,
+      "defending": 74,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_217",
+    "name": "Jarrod Bowen",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 52,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_218",
+    "name": "Mohammed Kudus",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "Ghana",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 87,
+      "defending": 58,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_219",
+    "name": "Tomas Soucek",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 79,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "Czech Republic",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 62,
+      "shooting": 75,
+      "passing": 70,
+      "dribbling": 71,
+      "defending": 78,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_220",
+    "name": "Edson Alvarez",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "Mexico",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 54,
+      "passing": 70,
+      "dribbling": 71,
+      "defending": 82,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_221",
+    "name": "Max Kilman",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 66,
+      "shooting": 38,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 80,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_222",
+    "name": "Alphonse Areola",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 81,
+    "club": "West Ham United",
+    "league": "Premier League",
+    "nationality": "France",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 80,
+      "passing": 75,
+      "dribbling": 83,
+      "defending": 46,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_223",
+    "name": "Dwight McNeil",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 79,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 76,
+      "passing": 80,
+      "dribbling": 79,
+      "defending": 62,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_224",
+    "name": "Dominic Calvert-Lewin",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 78,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 77,
+      "passing": 65,
+      "dribbling": 73,
+      "defending": 44,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_225",
+    "name": "Iliman Ndiaye",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 77,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "Senegal",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 74,
+      "passing": 73,
+      "dribbling": 82,
+      "defending": 45,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_226",
+    "name": "James Tarkowski",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 50,
+      "shooting": 42,
+      "passing": 62,
+      "dribbling": 60,
+      "defending": 81,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_227",
+    "name": "Jarrad Branthwaite",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "England",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 75,
+      "shooting": 42,
+      "passing": 68,
+      "dribbling": 67,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_228",
+    "name": "Vitalii Mykolenko",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 77,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "Ukraine",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 56,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 77,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_229",
+    "name": "Abdoulaye Doucoure",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 78,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "Mali",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 73,
+      "shooting": 75,
+      "passing": 74,
+      "dribbling": 75,
+      "defending": 76,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_230",
+    "name": "Idrissa Gueye",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 79,
+    "club": "Everton",
+    "league": "Premier League",
+    "nationality": "Senegal",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 64,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 81,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_231",
+    "name": "Alvaro Morata",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "Spain",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 81,
+      "shooting": 81,
+      "passing": 73,
+      "dribbling": 78,
+      "defending": 42,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_232",
+    "name": "Christian Pulisic",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "USA",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 80,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 65
+    }
+  },
+  {
+    "id": "fb_p_233",
+    "name": "Tijjani Reijnders",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "Netherlands",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 76,
+      "passing": 82,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_234",
+    "name": "Fikayo Tomori",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "England",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 40,
+      "passing": 65,
+      "dribbling": 68,
+      "defending": 83,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_235",
+    "name": "Strahinja Pavlovic",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "nationality": "Serbia",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 42,
+      "passing": 64,
+      "dribbling": 65,
+      "defending": 80,
+      "physical": 86
+    }
+  },
+  {
+    "id": "fb_p_236",
+    "name": "Marcus Thuram",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 86,
+      "shooting": 81,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 44,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_237",
+    "name": "Henrikh Mkhitaryan",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Armenia",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 64,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_238",
+    "name": "Benjamin Pavard",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "France",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 73,
+      "shooting": 64,
+      "passing": 77,
+      "dribbling": 75,
+      "defending": 83,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_239",
+    "name": "Stefan de Vrij",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Netherlands",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 62,
+      "shooting": 41,
+      "passing": 68,
+      "dribbling": 66,
+      "defending": 83,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_240",
+    "name": "Denzel Dumfries",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "nationality": "Netherlands",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 86,
+      "shooting": 68,
+      "passing": 73,
+      "dribbling": 77,
+      "defending": 78,
+      "physical": 87
+    }
+  },
+  {
+    "id": "fb_p_241",
+    "name": "Kenan Yildiz",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 79,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "Turkey",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 77,
+      "passing": 76,
+      "dribbling": 83,
+      "defending": 40,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_242",
+    "name": "Teun Koopmeiners",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 84,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "Netherlands",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 70,
+      "shooting": 82,
+      "passing": 83,
+      "dribbling": 79,
+      "defending": 77,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_243",
+    "name": "Manuel Locatelli",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 72,
+      "passing": 81,
+      "dribbling": 78,
+      "defending": 79,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_244",
+    "name": "Pierre Kalulu",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "France",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 40,
+      "passing": 68,
+      "dribbling": 72,
+      "defending": 80,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_245",
+    "name": "Michele Di Gregorio",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 83,
+    "club": "Juventus",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 48,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_246",
+    "name": "Romelu Lukaku",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Belgium",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 83,
+      "passing": 73,
+      "dribbling": 75,
+      "defending": 38,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_247",
+    "name": "Matteo Politano",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 46,
+      "physical": 64
+    }
+  },
+  {
+    "id": "fb_p_248",
+    "name": "Scott McTominay",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 81,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Scotland",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 78,
+      "passing": 77,
+      "dribbling": 77,
+      "defending": 78,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_249",
+    "name": "Andre-Frank Zambo Anguissa",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Cameroon",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 75,
+      "shooting": 71,
+      "passing": 78,
+      "dribbling": 81,
+      "defending": 80,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_250",
+    "name": "Amir Rrahmani",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Kosovo",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 44,
+      "passing": 66,
+      "dribbling": 66,
+      "defending": 82,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_251",
+    "name": "Alex Meret",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 81,
+    "club": "Napoli",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 80,
+      "passing": 74,
+      "dribbling": 82,
+      "defending": 46,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_252",
+    "name": "Artem Dovbyk",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Roma",
+    "league": "Serie A",
+    "nationality": "Ukraine",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 79,
+      "shooting": 83,
+      "passing": 68,
+      "dribbling": 75,
+      "defending": 38,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_253",
+    "name": "Paulo Dybala",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 86,
+    "club": "Roma",
+    "league": "Serie A",
+    "nationality": "Argentina",
+    "basePrice": 7,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 85,
+      "passing": 86,
+      "dribbling": 90,
+      "defending": 38,
+      "physical": 62
+    }
+  },
+  {
+    "id": "fb_p_254",
+    "name": "Lorenzo Pellegrini",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Roma",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 68,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_255",
+    "name": "Gianluca Mancini",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Roma",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 52,
+      "passing": 65,
+      "dribbling": 66,
+      "defending": 83,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_256",
+    "name": "Evan Ndicka",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "Roma",
+    "league": "Serie A",
+    "nationality": "Ivory Coast",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 45,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_257",
+    "name": "Mile Svilar",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 80,
+    "club": "Roma",
+    "league": "Serie A",
+    "nationality": "Serbia",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 78,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 44,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_258",
+    "name": "Ademola Lookman",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 83,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Nigeria",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 87,
+      "shooting": 82,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 40,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_259",
+    "name": "Charles De Ketelaere",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Belgium",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 79,
+      "shooting": 78,
+      "passing": 80,
+      "dribbling": 82,
+      "defending": 52,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_260",
+    "name": "Ederson dos Santos",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Brazil",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 74,
+      "passing": 78,
+      "dribbling": 80,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_261",
+    "name": "Marten de Roon",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Netherlands",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 64,
+      "shooting": 68,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 80,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_262",
+    "name": "Isak Hien",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 79,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Sweden",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 35,
+      "passing": 62,
+      "dribbling": 64,
+      "defending": 80,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_263",
+    "name": "Sead Kolasinac",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 78,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Bosnia",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 70,
+      "shooting": 60,
+      "passing": 70,
+      "dribbling": 70,
+      "defending": 78,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_264",
+    "name": "Marco Carnesecchi",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 80,
+    "club": "Atalanta",
+    "league": "Serie A",
+    "nationality": "Italy",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 79,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 45,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_265",
+    "name": "Victor Boniface",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Nigeria",
+    "basePrice": 6,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 82,
+      "passing": 74,
+      "dribbling": 81,
+      "defending": 38,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_266",
+    "name": "Patrik Schick",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Czech Republic",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 82,
+      "passing": 74,
+      "dribbling": 80,
+      "defending": 36,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_267",
+    "name": "Robert Andrich",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 74,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 81,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_268",
+    "name": "Exequiel Palacios",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Argentina",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 74,
+      "shooting": 72,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 82,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_269",
+    "name": "Jonathan Tah",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 84,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 74,
+      "shooting": 38,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 84,
+      "physical": 85
+    }
+  },
+  {
+    "id": "fb_p_270",
+    "name": "Edmond Tapsoba",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Burkina Faso",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 50,
+      "passing": 72,
+      "dribbling": 72,
+      "defending": 82,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_271",
+    "name": "Piero Hincapie",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Ecuador",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 42,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 81,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_272",
+    "name": "Lukas Hradecky",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 83,
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "nationality": "Finland",
+    "basePrice": 5,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 75,
+      "dribbling": 84,
+      "defending": 46,
+      "physical": 79
+    }
+  },
+  {
+    "id": "fb_p_273",
+    "name": "Julian Brandt",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 83,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 77,
+      "shooting": 79,
+      "passing": 84,
+      "dribbling": 85,
+      "defending": 52,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_274",
+    "name": "Marcel Sabitzer",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 82,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Austria",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_275",
+    "name": "Emre Can",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 81,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 74,
+      "passing": 77,
+      "dribbling": 77,
+      "defending": 81,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_276",
+    "name": "Nico Schlotterbeck",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 83,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 78,
+      "shooting": 56,
+      "passing": 74,
+      "dribbling": 73,
+      "defending": 83,
+      "physical": 83
+    }
+  },
+  {
+    "id": "fb_p_277",
+    "name": "Niklas Sule",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 45,
+      "passing": 66,
+      "dribbling": 66,
+      "defending": 81,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_278",
+    "name": "Waldemar Anton",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 81,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 48,
+      "passing": 70,
+      "dribbling": 68,
+      "defending": 82,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_279",
+    "name": "Ramy Bensebaini",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 78,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Algeria",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 72,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 78,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_280",
+    "name": "Karim Adeyemi",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 94,
+      "shooting": 75,
+      "passing": 70,
+      "dribbling": 81,
+      "defending": 35,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_281",
+    "name": "Donyell Malen",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 81,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "Netherlands",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 75,
+      "dribbling": 82,
+      "defending": 38,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_282",
+    "name": "Jamie Gittens",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 77,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "nationality": "England",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 74,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 32,
+      "physical": 58
+    }
+  },
+  {
+    "id": "fb_p_283",
+    "name": "Xavi Simons",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 84,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Netherlands",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 84,
+      "shooting": 78,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 54,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_284",
+    "name": "Lois Openda",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 84,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Belgium",
+    "basePrice": 6,
+    "difficulty": "medium",
+    "attributes": {
+      "pace": 92,
+      "shooting": 83,
+      "passing": 70,
+      "dribbling": 81,
+      "defending": 36,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_285",
+    "name": "Benjamin Sesko",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 82,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Slovenia",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 82,
+      "passing": 68,
+      "dribbling": 78,
+      "defending": 38,
+      "physical": 81
+    }
+  },
+  {
+    "id": "fb_p_286",
+    "name": "Amadou Haidara",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 80,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Mali",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 72,
+      "passing": 77,
+      "dribbling": 79,
+      "defending": 78,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_287",
+    "name": "Willi Orban",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 82,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Hungary",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 60,
+      "shooting": 42,
+      "passing": 64,
+      "dribbling": 63,
+      "defending": 83,
+      "physical": 82
+    }
+  },
+  {
+    "id": "fb_p_288",
+    "name": "Castello Lukeba",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "France",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 38,
+      "passing": 68,
+      "dribbling": 70,
+      "defending": 81,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_289",
+    "name": "David Raum",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 80,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Germany",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 64,
+      "passing": 81,
+      "dribbling": 76,
+      "defending": 76,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_290",
+    "name": "Peter Gulacsi",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 81,
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "nationality": "Hungary",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 80,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 46,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_291",
+    "name": "Achraf Dari",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 75,
+    "club": "Al Ahly",
+    "league": "Egyptian PL",
+    "nationality": "Morocco",
+    "basePrice": 2,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 70,
+      "shooting": 35,
+      "passing": 58,
+      "dribbling": 60,
+      "defending": 76,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_292",
+    "name": "Sunil Chhetri",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 78,
+    "club": "Bengaluru FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 5,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 80,
+      "passing": 74,
+      "dribbling": 75,
+      "defending": 42,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_293",
+    "name": "Bhaichung Bhutia",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 80,
+    "club": "East Bengal Legends",
+    "league": "Icons",
+    "nationality": "India",
+    "basePrice": 6,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 72,
+      "dribbling": 78,
+      "defending": 40,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_294",
+    "name": "Gurpreet Singh Sandhu",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 76,
+    "club": "Bengaluru FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 76,
+      "passing": 72,
+      "dribbling": 75,
+      "defending": 48,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_295",
+    "name": "Sandesh Jhingan",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 76,
+    "club": "FC Goa",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 65,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 58,
+      "defending": 78,
+      "physical": 84
+    }
+  },
+  {
+    "id": "fb_p_296",
+    "name": "Lallianzuala Chhangte",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 77,
+    "club": "Mumbai City FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 88,
+      "shooting": 74,
+      "passing": 72,
+      "dribbling": 80,
+      "defending": 42,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_297",
+    "name": "Anirudh Thapa",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 75,
+    "club": "Mohun Bagan SG",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 76,
+      "shooting": 68,
+      "passing": 76,
+      "dribbling": 77,
+      "defending": 66,
+      "physical": 70
+    }
+  },
+  {
+    "id": "fb_p_298",
+    "name": "Subhasish Bose",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 75,
+    "club": "Mohun Bagan SG",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 50,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 75,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_299",
+    "name": "Manvir Singh",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 74,
+    "club": "Mohun Bagan SG",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 81,
+      "shooting": 73,
+      "passing": 68,
+      "dribbling": 72,
+      "defending": 44,
+      "physical": 78
+    }
+  },
+  {
+    "id": "fb_p_300",
+    "name": "Sahal Abdul Samad",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 76,
+    "club": "Mohun Bagan SG",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 55,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_301",
+    "name": "Liston Colaco",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 75,
+    "club": "Mohun Bagan SG",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 87,
+      "shooting": 75,
+      "passing": 70,
+      "dribbling": 79,
+      "defending": 40,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_302",
+    "name": "Amrinder Singh",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 74,
+    "club": "Odisha FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 74,
+      "passing": 68,
+      "dribbling": 74,
+      "defending": 46,
+      "physical": 76
+    }
+  },
+  {
+    "id": "fb_p_303",
+    "name": "Rahul Bheke",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 74,
+    "club": "Bengaluru FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 70,
+      "shooting": 45,
+      "passing": 64,
+      "dribbling": 62,
+      "defending": 74,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_304",
+    "name": "Lalengmawia Ralte (Apuia)",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 76,
+    "club": "Mohun Bagan SG",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 4,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 65,
+      "passing": 78,
+      "dribbling": 79,
+      "defending": 74,
+      "physical": 72
+    }
+  },
+  {
+    "id": "fb_p_305",
+    "name": "Jeakson Singh",
+    "category": "football",
+    "position": "MID",
+    "overallRating": 74,
+    "club": "East Bengal",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 68,
+      "shooting": 58,
+      "passing": 73,
+      "dribbling": 72,
+      "defending": 75,
+      "physical": 80
+    }
+  },
+  {
+    "id": "fb_p_306",
+    "name": "Naorem Mahesh Singh",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 75,
+    "club": "East Bengal",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 83,
+      "shooting": 72,
+      "passing": 74,
+      "dribbling": 78,
+      "defending": 44,
+      "physical": 66
+    }
+  },
+  {
+    "id": "fb_p_307",
+    "name": "Nandhakumar Sekar",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 74,
+    "club": "East Bengal",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 84,
+      "shooting": 71,
+      "passing": 70,
+      "dribbling": 76,
+      "defending": 42,
+      "physical": 68
+    }
+  },
+  {
+    "id": "fb_p_308",
+    "name": "Vikram Partap Singh",
+    "category": "football",
+    "position": "FWD",
+    "overallRating": 74,
+    "club": "Mumbai City FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 85,
+      "shooting": 73,
+      "passing": 66,
+      "dribbling": 74,
+      "defending": 45,
+      "physical": 74
+    }
+  },
+  {
+    "id": "fb_p_309",
+    "name": "Mehtab Singh",
+    "category": "football",
+    "position": "DEF",
+    "overallRating": 74,
+    "club": "Mumbai City FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 72,
+      "shooting": 38,
+      "passing": 62,
+      "dribbling": 60,
+      "defending": 75,
+      "physical": 77
+    }
+  },
+  {
+    "id": "fb_p_310",
+    "name": "Phurba Lachenpa",
+    "category": "football",
+    "position": "GK",
+    "overallRating": 74,
+    "club": "Mumbai City FC",
+    "league": "ISL",
+    "nationality": "India",
+    "basePrice": 3,
+    "difficulty": "hard",
+    "attributes": {
+      "pace": 74,
+      "shooting": 73,
+      "passing": 70,
+      "dribbling": 74,
+      "defending": 45,
+      "physical": 74
+    }
+  }
+]

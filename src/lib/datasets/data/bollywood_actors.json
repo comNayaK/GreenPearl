@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "ba_001",
+    "name": "Shah Rukh Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_002",
+    "name": "Salman Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_003",
+    "name": "Aamir Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_004",
+    "name": "Amitabh Bachchan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_005",
+    "name": "Akshay Kumar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_006",
+    "name": "Hrithik Roshan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_007",
+    "name": "Ranbir Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_008",
+    "name": "Ranveer Singh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_009",
+    "name": "Ajay Devgn",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_010",
+    "name": "Shahid Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_011",
+    "name": "Saif Ali Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_012",
+    "name": "Nawazuddin Siddiqui",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_013",
+    "name": "Manoj Bajpayee",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_014",
+    "name": "Pankaj Tripathi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_015",
+    "name": "Ayushmann Khurrana",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_016",
+    "name": "Rajkummar Rao",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_017",
+    "name": "Vicky Kaushal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_018",
+    "name": "Dilip Kumar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_019",
+    "name": "Rajesh Khanna",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_020",
+    "name": "Dharmendra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_021",
+    "name": "Dev Anand",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_022",
+    "name": "Sanjeev Kumar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_023",
+    "name": "Rishi Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_024",
+    "name": "Anil Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_025",
+    "name": "Sunny Deol",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_026",
+    "name": "Bobby Deol",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_027",
+    "name": "Sanjay Dutt",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_028",
+    "name": "Irrfan Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_029",
+    "name": "Naseeruddin Shah",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_030",
+    "name": "Om Puri",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_031",
+    "name": "Kay Kay Menon",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_032",
+    "name": "Jaideep Ahlawat",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_033",
+    "name": "Abhishek Bachchan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_034",
+    "name": "John Abraham",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_035",
+    "name": "Kartik Aaryan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_036",
+    "name": "Varun Dhawan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_037",
+    "name": "Sidharth Malhotra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_038",
+    "name": "Tiger Shroff",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_039",
+    "name": "Emraan Hashmi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_040",
+    "name": "Arjun Rampal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "ba_041",
+    "name": "Suniel Shetty",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_042",
+    "name": "Jackie Shroff",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_043",
+    "name": "Govinda",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_044",
+    "name": "Paresh Rawal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_045",
+    "name": "Boman Irani",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_046",
+    "name": "Anupam Kher",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_047",
+    "name": "Amrish Puri",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_048",
+    "name": "Kader Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_049",
+    "name": "Johnny Lever",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_050",
+    "name": "Rajpal Yadav",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_051",
+    "name": "Sanjay Mishra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_052",
+    "name": "Vijay Raaz",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_053",
+    "name": "Ashutosh Rana",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_054",
+    "name": "Gulshan Grover",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_055",
+    "name": "Prem Chopra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_056",
+    "name": "Danny Denzongpa",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_057",
+    "name": "Pran",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_058",
+    "name": "Ranjeet",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_059",
+    "name": "Amjad Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_060",
+    "name": "Shakti Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_061",
+    "name": "Arshad Warsi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_062",
+    "name": "Sharman Joshi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_063",
+    "name": "R. Madhavan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_064",
+    "name": "Kunal Kemmu",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_065",
+    "name": "Jim Sarbh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_066",
+    "name": "Vikrant Massey",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_067",
+    "name": "Abhay Deol",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_068",
+    "name": "Farhan Akhtar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_069",
+    "name": "Prateik Babbar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_070",
+    "name": "Aditya Roy Kapur",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_071",
+    "name": "Arjun Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_072",
+    "name": "Ishaan Khatter",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_073",
+    "name": "Aparshakti Khurana",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_074",
+    "name": "Varun Sharma",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_075",
+    "name": "Divyenndu Sharma",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_076",
+    "name": "Jitendra Kumar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_077",
+    "name": "Pratik Gandhi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_078",
+    "name": "Vijay Varma",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_079",
+    "name": "Suhail Nayyar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_080",
+    "name": "Avinash Tiwary",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_081",
+    "name": "Mithun Chakraborty",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_082",
+    "name": "Jeetendra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_083",
+    "name": "Vinod Khanna",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_084",
+    "name": "Shatrughan Sinha",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_085",
+    "name": "Feroz Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_086",
+    "name": "Shashi Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_087",
+    "name": "Shammi Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_088",
+    "name": "Raj Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_089",
+    "name": "Guru Dutt",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_090",
+    "name": "Balraj Sahni",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_091",
+    "name": "Utpal Dutt",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_092",
+    "name": "Amol Palekar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_093",
+    "name": "Farooq Shaikh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_094",
+    "name": "Kulbhushan Kharbanda",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_095",
+    "name": "Saeed Jaffrey",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_096",
+    "name": "Deepak Dobriyal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_097",
+    "name": "Mohammed Zeeshan Ayyub",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_098",
+    "name": "Vineet Kumar Singh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_099",
+    "name": "Pawan Malhotra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_100",
+    "name": "Kumud Mishra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "ba_101",
+    "name": "Gajraj Rao",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_102",
+    "name": "Neena Gupta Partner (Raghubir Yadav)",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_103",
+    "name": "Manav Kaul",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_104",
+    "name": "Abhishek Banerjee",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_105",
+    "name": "Gulshan Devaiah",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_106",
+    "name": "Chunky Panday",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_107",
+    "name": "Ronit Roy",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_108",
+    "name": "Rohit Roy",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_109",
+    "name": "Sharad Kelkar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_110",
+    "name": "Atul Kulkarni",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_111",
+    "name": "Sachin Khedekar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_112",
+    "name": "Milind Soman",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_113",
+    "name": "Dino Morea",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_114",
+    "name": "Zayed Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_115",
+    "name": "Fardeen Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_116",
+    "name": "Aftab Shivdasani",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_117",
+    "name": "Tusshar Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_118",
+    "name": "Riteish Deshmukh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_119",
+    "name": "Vivek Oberoi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_120",
+    "name": "Neil Nitin Mukesh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_121",
+    "name": "Pulkit Samrat",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_122",
+    "name": "Ali Fazal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_123",
+    "name": "Angad Bedi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_124",
+    "name": "Sikandar Kher",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_125",
+    "name": "Harshvardhan Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_126",
+    "name": "Meezaan Jafri",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_127",
+    "name": "Ahan Shetty",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_128",
+    "name": "Ibrahim Ali Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_129",
+    "name": "Agastya Nanda",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "ba_130",
+    "name": "Vedang Raina",
+    "category": "entertainment",
+    "subcategory": "bollywood_actors",
+    "difficulty": "hard",
+    "region": "india"
+  }
+]

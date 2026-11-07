@@ -1,0 +1,882 @@
+[
+  {
+    "id": "food_001",
+    "name": "Butter Chicken",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_002",
+    "name": "Paneer Tikka",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_003",
+    "name": "Dal Makhani",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_004",
+    "name": "Chole Bhature",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_005",
+    "name": "Biryani",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_006",
+    "name": "Rajma Chawal",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_007",
+    "name": "Palak Paneer",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_008",
+    "name": "Rogan Josh",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_009",
+    "name": "Malai Kofta",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_010",
+    "name": "Pav Bhaji",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_011",
+    "name": "Pani Puri",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_012",
+    "name": "Aloo Paratha",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_013",
+    "name": "Gulab Jamun",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_014",
+    "name": "Jalebi",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_015",
+    "name": "Rasgulla",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_016",
+    "name": "Kadhai Paneer",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_017",
+    "name": "Shahi Paneer",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_018",
+    "name": "Dum Aloo",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_019",
+    "name": "Sarson Ka Saag & Makki Di Roti",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_020",
+    "name": "Amritsari Kulcha",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_021",
+    "name": "Kadhi Pakora",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_022",
+    "name": "Baingan Bharta",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_023",
+    "name": "Bhindi Masala",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_024",
+    "name": "Aloo Gobi",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_025",
+    "name": "Jeera Aloo",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_026",
+    "name": "Matar Paneer",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_027",
+    "name": "Paneer Butter Masala",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_028",
+    "name": "Chicken Tikka Masala",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_029",
+    "name": "Tandoori Chicken",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_030",
+    "name": "Seekh Kebab",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_031",
+    "name": "Galouti Kebab",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_032",
+    "name": "Kakori Kebab",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_033",
+    "name": "Mutton Korma",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_034",
+    "name": "Nihari",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_035",
+    "name": "Haleem",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_036",
+    "name": "Chicken Biryani",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_037",
+    "name": "Mutton Biryani",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_038",
+    "name": "Veg Biryani",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_039",
+    "name": "Samosa",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_040",
+    "name": "Kachori",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "food_041",
+    "name": "Dahi Vada",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_042",
+    "name": "Aloo Tikki",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_043",
+    "name": "Papdi Chaat",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_044",
+    "name": "Sev Puri",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_045",
+    "name": "Bhel Puri",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_046",
+    "name": "Momos",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_047",
+    "name": "Chowmein",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_048",
+    "name": "Spring Rolls",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_049",
+    "name": "Chilli Chicken",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_050",
+    "name": "Chilli Paneer",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_051",
+    "name": "Manchurian",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_052",
+    "name": "Fried Rice",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_053",
+    "name": "Hakka Noodles",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_054",
+    "name": "Sweet Corn Soup",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_055",
+    "name": "Hot and Sour Soup",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_056",
+    "name": "Gajar Ka Halwa",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_057",
+    "name": "Moong Dal Halwa",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_058",
+    "name": "Kheer",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_059",
+    "name": "Rabri",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_060",
+    "name": "Kulfi",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_061",
+    "name": "Rasmalai",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_062",
+    "name": "Kaju Katli",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_063",
+    "name": "Motichoor Ladoo",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_064",
+    "name": "Besan Ladoo",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_065",
+    "name": "Soan Papdi",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_066",
+    "name": "Dhokla",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_067",
+    "name": "Khandvi",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_068",
+    "name": "Poha",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_069",
+    "name": "Upma",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_070",
+    "name": "Medu Vada",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_071",
+    "name": "Masala Dosa",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_072",
+    "name": "Idli Sambar",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_073",
+    "name": "Uttapam",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_074",
+    "name": "Appam",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_075",
+    "name": "Pesarattu",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_076",
+    "name": "Fish Curry",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_077",
+    "name": "Prawn Masala",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_078",
+    "name": "Chicken Chettinad",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_079",
+    "name": "Laal Maas",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_080",
+    "name": "Gatte Ki Sabzi",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "food_081",
+    "name": "Ker Sangri",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_082",
+    "name": "Dal Baati Churma",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_083",
+    "name": "Puran Poli",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_084",
+    "name": "Misal Pav",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_085",
+    "name": "Vada Pav",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_086",
+    "name": "Pizza Margherita",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_087",
+    "name": "Pepperoni Pizza",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_088",
+    "name": "Pasta Carbonara",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_089",
+    "name": "Penne Arrabbiata",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_090",
+    "name": "Lasagna",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "food_091",
+    "name": "Cheeseburger",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_092",
+    "name": "Crispy French Fries",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_093",
+    "name": "Tacos",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_094",
+    "name": "Burritos",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_095",
+    "name": "Nachos with Guacamole",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_096",
+    "name": "Sushi Roll",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_097",
+    "name": "Chicken Ramen",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_098",
+    "name": "Pad Thai",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_099",
+    "name": "Dim Sum",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_100",
+    "name": "Shawarma",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_101",
+    "name": "Falafel Hummus Platter",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_102",
+    "name": "Baklava",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_103",
+    "name": "Tiramisu",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_104",
+    "name": "Cheesecake",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_105",
+    "name": "Churros",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_106",
+    "name": "Croissant",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_107",
+    "name": "Waffles with Maple Syrup",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_108",
+    "name": "Pancakes",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_109",
+    "name": "Garlic Bread",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "food_110",
+    "name": "Caesar Salad",
+    "category": "lifestyle",
+    "subcategory": "food_and_dishes",
+    "difficulty": "hard",
+    "region": "international"
+  }
+]

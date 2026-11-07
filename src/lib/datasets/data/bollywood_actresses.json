@@ -1,0 +1,882 @@
+[
+  {
+    "id": "bac_001",
+    "name": "Deepika Padukone",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_002",
+    "name": "Alia Bhatt",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_003",
+    "name": "Priyanka Chopra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_004",
+    "name": "Kareena Kapoor Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_005",
+    "name": "Katrina Kaif",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_006",
+    "name": "Anushka Sharma",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_007",
+    "name": "Rani Mukerji",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_008",
+    "name": "Preity Zinta",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_009",
+    "name": "Kajol",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_010",
+    "name": "Madhuri Dixit",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_011",
+    "name": "Aishwarya Rai Bachchan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_012",
+    "name": "Vidya Balan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_013",
+    "name": "Tabu",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_014",
+    "name": "Kangana Ranaut",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_015",
+    "name": "Kriti Sanon",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_016",
+    "name": "Shraddha Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_017",
+    "name": "Kiara Advani",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_018",
+    "name": "Rekha",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_019",
+    "name": "Sridevi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_020",
+    "name": "Hema Malini",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_021",
+    "name": "Waheeda Rehman",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_022",
+    "name": "Shabana Azmi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_023",
+    "name": "Smita Patil",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_024",
+    "name": "Jaya Bachchan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_025",
+    "name": "Zeenat Aman",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_026",
+    "name": "Parveen Babi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_027",
+    "name": "Neetu Singh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_028",
+    "name": "Juhi Chawla",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_029",
+    "name": "Karisma Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_030",
+    "name": "Raveena Tandon",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_031",
+    "name": "Bipasha Basu",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_032",
+    "name": "Sushmita Sen",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_033",
+    "name": "Lara Dutta",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_034",
+    "name": "Dia Mirza",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_035",
+    "name": "Sonam Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_036",
+    "name": "Jacqueline Fernandez",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_037",
+    "name": "Disha Patani",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_038",
+    "name": "Ananya Panday",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_039",
+    "name": "Sara Ali Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_040",
+    "name": "Janhvi Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "bac_041",
+    "name": "Taapsee Pannu",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_042",
+    "name": "Bhumi Pednekar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_043",
+    "name": "Radhika Apte",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_044",
+    "name": "Konkona Sen Sharma",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_045",
+    "name": "Yami Gautam",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_046",
+    "name": "Parineeti Chopra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_047",
+    "name": "Sonakshi Sinha",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_048",
+    "name": "Nargis Fakhri",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_049",
+    "name": "Ileana D'Cruz",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_050",
+    "name": "Tamannaah Bhatia",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_051",
+    "name": "Pooja Hegde",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_052",
+    "name": "Mrunal Thakur",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_053",
+    "name": "Triptii Dimri",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_054",
+    "name": "Sharvari Wagh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_055",
+    "name": "Wamiqa Gabbi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_056",
+    "name": "Fatima Sana Shaikh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_057",
+    "name": "Sanya Malhotra",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_058",
+    "name": "Rasika Dugal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_059",
+    "name": "Shweta Tripathi",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_060",
+    "name": "Kirti Kulhari",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_061",
+    "name": "Sobhita Dhulipala",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_062",
+    "name": "Aditi Rao Hydari",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_063",
+    "name": "Nimrat Kaur",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_064",
+    "name": "Richa Chadha",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_065",
+    "name": "Swara Bhasker",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_066",
+    "name": "Dimple Kapadia",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_067",
+    "name": "Amrita Singh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_068",
+    "name": "Padmini Kolhapure",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_069",
+    "name": "Meenakshi Seshadri",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_070",
+    "name": "Pooja Bhatt",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_071",
+    "name": "Manisha Koirala",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_072",
+    "name": "Urmila Matondkar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_073",
+    "name": "Mahima Chaudhry",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_074",
+    "name": "Twinkle Khanna",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_075",
+    "name": "Namrata Shirodkar",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_076",
+    "name": "Ayesha Takia",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_077",
+    "name": "Amrita Rao",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_078",
+    "name": "Genelia D'Souza",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_079",
+    "name": "Asin",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_080",
+    "name": "Chitrangda Singh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_081",
+    "name": "Nushrratt Bharuccha",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_082",
+    "name": "Vaani Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_083",
+    "name": "Tara Sutaria",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_084",
+    "name": "Alaya F",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_085",
+    "name": "Khushi Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_086",
+    "name": "Suhana Khan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_087",
+    "name": "Shanaya Kapoor",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_088",
+    "name": "Palak Tiwari",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_089",
+    "name": "Pratibha Ranta",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_090",
+    "name": "Nitanshi Goel",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "bac_091",
+    "name": "Nutan",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_092",
+    "name": "Meena Kumari",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_093",
+    "name": "Madhubala",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_094",
+    "name": "Nargis",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_095",
+    "name": "Vyjayanthimala",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_096",
+    "name": "Asha Parekh",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_097",
+    "name": "Sadhana",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_098",
+    "name": "Mumtaz",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_099",
+    "name": "Sharmila Tagore",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_100",
+    "name": "Helen",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_101",
+    "name": "Bindu",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_102",
+    "name": "Aruna Irani",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_103",
+    "name": "Farida Jalal",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_104",
+    "name": "Reema Lagoo",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_105",
+    "name": "Supriya Pathak",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_106",
+    "name": "Ratna Pathak Shah",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_107",
+    "name": "Shefali Shah",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_108",
+    "name": "Seema Pahwa",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_109",
+    "name": "Neena Gupta",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  },
+  {
+    "id": "bac_110",
+    "name": "Kirron Kher",
+    "category": "entertainment",
+    "subcategory": "bollywood_actresses",
+    "difficulty": "hard",
+    "region": "india"
+  }
+]

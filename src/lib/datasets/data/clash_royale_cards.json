@@ -1,0 +1,1650 @@
+[
+  {
+    "id": "cr_001",
+    "name": "Knight",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 80,
+      "winCondition": false,
+      "defenseRating": 85,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_002",
+    "name": "Archers",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 78,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_003",
+    "name": "Goblins",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 75,
+      "winCondition": false,
+      "defenseRating": 70,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_004",
+    "name": "Giant",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": true,
+      "defenseRating": 40,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_005",
+    "name": "P.E.K.K.A",
+    "category": "clash_royale",
+    "elixirCost": 7,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 95,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_006",
+    "name": "Mini P.E.K.K.A",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_007",
+    "name": "Musketeer",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 80,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_008",
+    "name": "Baby Dragon",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_009",
+    "name": "Skeleton Army",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 80,
+      "winCondition": false,
+      "defenseRating": 85,
+      "counterVersatility": 78
+    }
+  },
+  {
+    "id": "cr_010",
+    "name": "Witch",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_011",
+    "name": "Valkyrie",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 92
+    }
+  },
+  {
+    "id": "cr_012",
+    "name": "Bomber",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 78,
+      "winCondition": false,
+      "defenseRating": 72,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_013",
+    "name": "Hog Rider",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": true,
+      "defenseRating": 20,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_014",
+    "name": "Mega Knight",
+    "category": "clash_royale",
+    "elixirCost": 7,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 95,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_015",
+    "name": "Electro Giant",
+    "category": "clash_royale",
+    "elixirCost": 7,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": true,
+      "defenseRating": 60,
+      "counterVersatility": 78
+    }
+  },
+  {
+    "id": "cr_016",
+    "name": "Royal Giant",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": true,
+      "defenseRating": 35,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_017",
+    "name": "Golem",
+    "category": "clash_royale",
+    "elixirCost": 8,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": true,
+      "defenseRating": 40,
+      "counterVersatility": 70
+    }
+  },
+  {
+    "id": "cr_018",
+    "name": "Lava Hound",
+    "category": "clash_royale",
+    "elixirCost": 7,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": true,
+      "defenseRating": 35,
+      "counterVersatility": 72
+    }
+  },
+  {
+    "id": "cr_019",
+    "name": "Sparky",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": true,
+      "defenseRating": 80,
+      "counterVersatility": 70
+    }
+  },
+  {
+    "id": "cr_020",
+    "name": "Miner",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 95,
+      "winCondition": true,
+      "defenseRating": 70,
+      "counterVersatility": 95
+    }
+  },
+  {
+    "id": "cr_021",
+    "name": "Princess",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_022",
+    "name": "Bandit",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 86
+    }
+  },
+  {
+    "id": "cr_023",
+    "name": "Lumberjack",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 89,
+      "winCondition": false,
+      "defenseRating": 80,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_024",
+    "name": "Night Witch",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 72,
+      "counterVersatility": 74
+    }
+  },
+  {
+    "id": "cr_025",
+    "name": "Magic Archer",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 76,
+      "counterVersatility": 84
+    }
+  },
+  {
+    "id": "cr_026",
+    "name": "Ram Rider",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": true,
+      "defenseRating": 65,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_027",
+    "name": "Fisherman",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 84
+    }
+  },
+  {
+    "id": "cr_028",
+    "name": "Firecracker",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_029",
+    "name": "Royal Hogs",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": true,
+      "defenseRating": 25,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_030",
+    "name": "Electro Wizard",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 92
+    }
+  },
+  {
+    "id": "cr_031",
+    "name": "Ice Wizard",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_032",
+    "name": "Mother Witch",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 72,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_033",
+    "name": "Skeleton King",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Champion",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 7,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_034",
+    "name": "Archer Queen",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Champion",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 7,
+    "attributes": {
+      "synergyScore": 94,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 92
+    }
+  },
+  {
+    "id": "cr_035",
+    "name": "Golden Knight",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Champion",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 7,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 82,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_036",
+    "name": "Mighty Miner",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Champion",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 7,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 92,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_037",
+    "name": "Monk",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Champion",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 7,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 94,
+      "counterVersatility": 86
+    }
+  },
+  {
+    "id": "cr_038",
+    "name": "Little Prince",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Champion",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 7,
+    "attributes": {
+      "synergyScore": 95,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 94
+    }
+  },
+  {
+    "id": "cr_039",
+    "name": "Skeletons",
+    "category": "clash_royale",
+    "elixirCost": 1,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 95,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 95
+    }
+  },
+  {
+    "id": "cr_040",
+    "name": "Ice Spirit",
+    "category": "clash_royale",
+    "elixirCost": 1,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 94,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 95
+    }
+  },
+  {
+    "id": "cr_041",
+    "name": "Fire Spirit",
+    "category": "clash_royale",
+    "elixirCost": 1,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 74,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_042",
+    "name": "Electro Spirit",
+    "category": "clash_royale",
+    "elixirCost": 1,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": false,
+      "defenseRating": 76,
+      "counterVersatility": 92
+    }
+  },
+  {
+    "id": "cr_043",
+    "name": "Heal Spirit",
+    "category": "clash_royale",
+    "elixirCost": 1,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 60,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_044",
+    "name": "Spear Goblins",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 80,
+      "winCondition": false,
+      "defenseRating": 70,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_045",
+    "name": "Bats",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 86
+    }
+  },
+  {
+    "id": "cr_046",
+    "name": "Wall Breakers",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": true,
+      "defenseRating": 15,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_047",
+    "name": "Mega Minion",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 84,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_048",
+    "name": "Dart Goblin",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 74,
+      "counterVersatility": 84
+    }
+  },
+  {
+    "id": "cr_049",
+    "name": "Guards",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 86
+    }
+  },
+  {
+    "id": "cr_050",
+    "name": "Goblin Gang",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 82,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_051",
+    "name": "Minions",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 76,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_052",
+    "name": "Flying Machine",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 84
+    }
+  },
+  {
+    "id": "cr_053",
+    "name": "Battle Ram",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Buildings",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": true,
+      "defenseRating": 40,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_054",
+    "name": "Zappies",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 85,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_055",
+    "name": "Hunter",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_056",
+    "name": "Dark Prince",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 84,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_057",
+    "name": "Wizard",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 78,
+      "winCondition": false,
+      "defenseRating": 74,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_058",
+    "name": "Executioner",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_059",
+    "name": "Bowler",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_060",
+    "name": "Prince",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": false,
+      "defenseRating": 84,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_061",
+    "name": "Electro Dragon",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 82,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_062",
+    "name": "Elite Barbarians",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 78
+    }
+  },
+  {
+    "id": "cr_063",
+    "name": "Royal Recruits",
+    "category": "clash_royale",
+    "elixirCost": 7,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_064",
+    "name": "Three Musketeers",
+    "category": "clash_royale",
+    "elixirCost": 9,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": true,
+      "defenseRating": 85,
+      "counterVersatility": 70
+    }
+  },
+  {
+    "id": "cr_065",
+    "name": "Goblin Demolisher",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_066",
+    "name": "Goblin Machine",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 82,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_067",
+    "name": "Minion Horde",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 80,
+      "winCondition": false,
+      "defenseRating": 82,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_068",
+    "name": "Rascals",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 84,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_069",
+    "name": "Giant Skeleton",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Epic",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 78
+    }
+  },
+  {
+    "id": "cr_070",
+    "name": "Barbarians",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Common",
+    "cardType": "Troop",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_071",
+    "name": "Phoenix",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Legendary",
+    "cardType": "Troop",
+    "target": "Air & Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 84,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_073",
+    "name": "Zap",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Common",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 95,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 95
+    }
+  },
+  {
+    "id": "cr_074",
+    "name": "The Log",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Legendary",
+    "cardType": "Spell",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 96,
+      "winCondition": false,
+      "defenseRating": 92,
+      "counterVersatility": 96
+    }
+  },
+  {
+    "id": "cr_075",
+    "name": "Arrows",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": false,
+      "defenseRating": 86,
+      "counterVersatility": 94
+    }
+  },
+  {
+    "id": "cr_076",
+    "name": "Fireball",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 95,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 95
+    }
+  },
+  {
+    "id": "cr_077",
+    "name": "Poison",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 94,
+      "winCondition": false,
+      "defenseRating": 92,
+      "counterVersatility": 93
+    }
+  },
+  {
+    "id": "cr_078",
+    "name": "Rocket",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Rare",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 85,
+      "winCondition": true,
+      "defenseRating": 88,
+      "counterVersatility": 82
+    }
+  },
+  {
+    "id": "cr_079",
+    "name": "Lightning",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 89,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_080",
+    "name": "Tornado",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 95,
+      "winCondition": false,
+      "defenseRating": 96,
+      "counterVersatility": 96
+    }
+  },
+  {
+    "id": "cr_081",
+    "name": "Earthquake",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Rare",
+    "cardType": "Spell",
+    "target": "Ground & Buildings",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 65,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_082",
+    "name": "Barbarian Barrel",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 94,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 94
+    }
+  },
+  {
+    "id": "cr_083",
+    "name": "Giant Snowball",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Common",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": false,
+      "defenseRating": 82,
+      "counterVersatility": 92
+    }
+  },
+  {
+    "id": "cr_084",
+    "name": "Royal Delivery",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Spell",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 92,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_085",
+    "name": "Freeze",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 86,
+      "winCondition": false,
+      "defenseRating": 80,
+      "counterVersatility": 78
+    }
+  },
+  {
+    "id": "cr_086",
+    "name": "Clone",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "Troops",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 84,
+      "winCondition": false,
+      "defenseRating": 30,
+      "counterVersatility": 68
+    }
+  },
+  {
+    "id": "cr_087",
+    "name": "Mirror",
+    "category": "clash_royale",
+    "elixirCost": 1,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 80,
+      "winCondition": false,
+      "defenseRating": 50,
+      "counterVersatility": 75
+    }
+  },
+  {
+    "id": "cr_088",
+    "name": "Rage",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_089",
+    "name": "Void",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 88,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_090",
+    "name": "Goblin Curse",
+    "category": "clash_royale",
+    "elixirCost": 2,
+    "rarity": "Epic",
+    "cardType": "Spell",
+    "target": "All",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 70,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_091",
+    "name": "Graveyard",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Legendary",
+    "cardType": "Spell",
+    "target": "Ground",
+    "basePrice": 6,
+    "attributes": {
+      "synergyScore": 94,
+      "winCondition": true,
+      "defenseRating": 55,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_092",
+    "name": "Cannon",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Common",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 92
+    }
+  },
+  {
+    "id": "cr_093",
+    "name": "Tesla",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Common",
+    "cardType": "Building",
+    "target": "Air & Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 92,
+      "winCondition": false,
+      "defenseRating": 94,
+      "counterVersatility": 94
+    }
+  },
+  {
+    "id": "cr_094",
+    "name": "Inferno Tower",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 96,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_095",
+    "name": "Bomb Tower",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 92,
+      "counterVersatility": 88
+    }
+  },
+  {
+    "id": "cr_096",
+    "name": "Mortar",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Common",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 3,
+    "attributes": {
+      "synergyScore": 89,
+      "winCondition": true,
+      "defenseRating": 88,
+      "counterVersatility": 85
+    }
+  },
+  {
+    "id": "cr_097",
+    "name": "X-Bow",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Epic",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": true,
+      "defenseRating": 88,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_098",
+    "name": "Tombstone",
+    "category": "clash_royale",
+    "elixirCost": 3,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_099",
+    "name": "Goblin Cage",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 90,
+      "counterVersatility": 90
+    }
+  },
+  {
+    "id": "cr_100",
+    "name": "Goblin Hut",
+    "category": "clash_royale",
+    "elixirCost": 5,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 78,
+      "counterVersatility": 80
+    }
+  },
+  {
+    "id": "cr_101",
+    "name": "Barbarian Hut",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 78,
+      "winCondition": false,
+      "defenseRating": 75,
+      "counterVersatility": 70
+    }
+  },
+  {
+    "id": "cr_102",
+    "name": "Furnace",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "Air & Ground",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 82,
+      "winCondition": false,
+      "defenseRating": 76,
+      "counterVersatility": 78
+    }
+  },
+  {
+    "id": "cr_103",
+    "name": "Elixir Collector",
+    "category": "clash_royale",
+    "elixirCost": 6,
+    "rarity": "Rare",
+    "cardType": "Building",
+    "target": "None",
+    "basePrice": 4,
+    "attributes": {
+      "synergyScore": 88,
+      "winCondition": false,
+      "defenseRating": 30,
+      "counterVersatility": 72
+    }
+  },
+  {
+    "id": "cr_104",
+    "name": "Goblin Drill",
+    "category": "clash_royale",
+    "elixirCost": 4,
+    "rarity": "Epic",
+    "cardType": "Building",
+    "target": "Ground",
+    "basePrice": 5,
+    "attributes": {
+      "synergyScore": 90,
+      "winCondition": true,
+      "defenseRating": 74,
+      "counterVersatility": 86
+    }
+  }
+]

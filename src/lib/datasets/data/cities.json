@@ -1,0 +1,922 @@
+[
+  {
+    "id": "city_001",
+    "name": "Delhi",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_002",
+    "name": "Mumbai",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_003",
+    "name": "Bangalore",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_004",
+    "name": "Kolkata",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_005",
+    "name": "Chennai",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_006",
+    "name": "Hyderabad",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_007",
+    "name": "Pune",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_008",
+    "name": "Ahmedabad",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_009",
+    "name": "Jaipur",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_010",
+    "name": "Chandigarh",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_011",
+    "name": "Lucknow",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_012",
+    "name": "Varanasi",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_013",
+    "name": "Amritsar",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_014",
+    "name": "Agra",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_015",
+    "name": "Udaipur",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_016",
+    "name": "Goa (Panaji)",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_017",
+    "name": "Bhopal",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_018",
+    "name": "Indore",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_019",
+    "name": "Patna",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_020",
+    "name": "Ranchi",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_021",
+    "name": "Guwahati",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_022",
+    "name": "Bhubaneswar",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_023",
+    "name": "Dehradun",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_024",
+    "name": "Shimla",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_025",
+    "name": "Srinagar",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_026",
+    "name": "Ludhiana",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_027",
+    "name": "Jalandhar",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_028",
+    "name": "Noida",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_029",
+    "name": "Gurugram",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_030",
+    "name": "Faridabad",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_031",
+    "name": "Kanpur",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_032",
+    "name": "Prayagraj (Allahabad)",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_033",
+    "name": "Meerut",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_034",
+    "name": "Gwalior",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_035",
+    "name": "Jabalpur",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_036",
+    "name": "Surat",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_037",
+    "name": "Vadodara",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_038",
+    "name": "Rajkot",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_039",
+    "name": "Jodhpur",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_040",
+    "name": "Kota",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "easy",
+    "region": "india"
+  },
+  {
+    "id": "city_041",
+    "name": "Ajmer",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_042",
+    "name": "Bikaner",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_043",
+    "name": "Mathura",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_044",
+    "name": "Haridwar",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_045",
+    "name": "Rishikesh",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_046",
+    "name": "Manali",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_047",
+    "name": "Dharamshala",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_048",
+    "name": "Leh",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_049",
+    "name": "Gangtok",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_050",
+    "name": "Darjeeling",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "india"
+  },
+  {
+    "id": "city_051",
+    "name": "London",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_052",
+    "name": "Paris",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_053",
+    "name": "New York City",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_054",
+    "name": "Tokyo",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_055",
+    "name": "Dubai",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_056",
+    "name": "Singapore",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_057",
+    "name": "Rome",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_058",
+    "name": "Barcelona",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_059",
+    "name": "Madrid",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_060",
+    "name": "Amsterdam",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_061",
+    "name": "Berlin",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_062",
+    "name": "Munich",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_063",
+    "name": "Vienna",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_064",
+    "name": "Prague",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_065",
+    "name": "Budapest",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_066",
+    "name": "Istanbul",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_067",
+    "name": "Athens",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_068",
+    "name": "Venice",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_069",
+    "name": "Florence",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_070",
+    "name": "Milan",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_071",
+    "name": "Zurich",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_072",
+    "name": "Geneva",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_073",
+    "name": "Brussels",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_074",
+    "name": "Copenhagen",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_075",
+    "name": "Stockholm",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_076",
+    "name": "Oslo",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_077",
+    "name": "Helsinki",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_078",
+    "name": "Dublin",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_079",
+    "name": "Edinburgh",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_080",
+    "name": "Lisbon",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_081",
+    "name": "Los Angeles",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_082",
+    "name": "San Francisco",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_083",
+    "name": "Las Vegas",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_084",
+    "name": "Chicago",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_085",
+    "name": "Miami",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_086",
+    "name": "Toronto",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_087",
+    "name": "Vancouver",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_088",
+    "name": "Montreal",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_089",
+    "name": "Sydney",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_090",
+    "name": "Melbourne",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "medium",
+    "region": "international"
+  },
+  {
+    "id": "city_091",
+    "name": "Auckland",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_092",
+    "name": "Bangkok",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_093",
+    "name": "Kuala Lumpur",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_094",
+    "name": "Bali (Denpasar)",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_095",
+    "name": "Seoul",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_096",
+    "name": "Hong Kong",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_097",
+    "name": "Shanghai",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_098",
+    "name": "Beijing",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_099",
+    "name": "Taipei",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_100",
+    "name": "Osaka",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_101",
+    "name": "Kyoto",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_102",
+    "name": "Cairo",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_103",
+    "name": "Cape Town",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_104",
+    "name": "Johannesburg",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_105",
+    "name": "Nairobi",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_106",
+    "name": "Rio de Janeiro",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_107",
+    "name": "Buenos Aires",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_108",
+    "name": "Mexico City",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_109",
+    "name": "Santiago",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_110",
+    "name": "Lima",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_111",
+    "name": "Doha",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_112",
+    "name": "Abu Dhabi",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_113",
+    "name": "Riyadh",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_114",
+    "name": "Jeddah",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  },
+  {
+    "id": "city_115",
+    "name": "Muscat",
+    "category": "geography",
+    "subcategory": "cities",
+    "difficulty": "hard",
+    "region": "international"
+  }
+]

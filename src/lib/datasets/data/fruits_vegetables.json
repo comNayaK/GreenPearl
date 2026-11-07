@@ -1,0 +1,562 @@
+[
+  {
+    "id": "fv_001",
+    "name": "Mango",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_002",
+    "name": "Apple",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_003",
+    "name": "Banana",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_004",
+    "name": "Orange",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_005",
+    "name": "Grapes",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_006",
+    "name": "Watermelon",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_007",
+    "name": "Pomegranate",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_008",
+    "name": "Papaya",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_009",
+    "name": "Pineapple",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_010",
+    "name": "Guava",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_011",
+    "name": "Strawberry",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_012",
+    "name": "Lychee",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_013",
+    "name": "Kiwi",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_014",
+    "name": "Blueberry",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_015",
+    "name": "Avocado",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_016",
+    "name": "Custard Apple (Sitaphal)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_017",
+    "name": "Jackfruit (Kathal)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_018",
+    "name": "Peach",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_019",
+    "name": "Plum",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_020",
+    "name": "Cherry",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_021",
+    "name": "Pear",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_022",
+    "name": "Dragonfruit",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_023",
+    "name": "Coconut",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_024",
+    "name": "Muskmelon",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_025",
+    "name": "Sweet Lime (Mosambi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_026",
+    "name": "Fig (Anjeer)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_027",
+    "name": "Dates (Khajoor)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_028",
+    "name": "Blackberry (Jamun)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_029",
+    "name": "Mulberry (Shahtoot)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_030",
+    "name": "Amla (Gooseberry)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "fv_031",
+    "name": "Potato (Aloo)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_032",
+    "name": "Onion (Pyaaz)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_033",
+    "name": "Tomato (Tamatar)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_034",
+    "name": "Garlic (Lahsun)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_035",
+    "name": "Ginger (Adrak)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_036",
+    "name": "Cauliflower (Gobi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_037",
+    "name": "Cabbage (Patta Gobi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_038",
+    "name": "Spinach (Palak)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_039",
+    "name": "Green Peas (Matar)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_040",
+    "name": "Lady Finger (Bhindi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_041",
+    "name": "Brinjal / Eggplant (Baingan)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_042",
+    "name": "Capsicum / Bell Pepper (Shimla Mirch)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_043",
+    "name": "Carrot (Gajar)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_044",
+    "name": "Radish (Mooli)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_045",
+    "name": "Bottle Gourd (Lauki)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_046",
+    "name": "Bitter Gourd (Karela)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_047",
+    "name": "Ridge Gourd (Torai)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_048",
+    "name": "Pumpkin (Kaddu)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_049",
+    "name": "Cucumber (Kheera)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_050",
+    "name": "Beetroot (Chukandar)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_051",
+    "name": "Fenugreek (Methi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_052",
+    "name": "Coriander (Dhaniya)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_053",
+    "name": "Mint (Pudina)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_054",
+    "name": "Green Chilli (Hari Mirch)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_055",
+    "name": "Curry Leaves (Kadi Patta)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_056",
+    "name": "Mushrooms",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_057",
+    "name": "Sweet Potato (Shakarkandi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_058",
+    "name": "Colocasia (Arbi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_059",
+    "name": "Drumsticks (Sahjan)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_060",
+    "name": "Raw Banana (Kacha Kela)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "fv_061",
+    "name": "Zucchini",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_062",
+    "name": "Broccoli",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_063",
+    "name": "Asparagus",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_064",
+    "name": "Celery",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_065",
+    "name": "Lettuce",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_066",
+    "name": "Artichoke",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_067",
+    "name": "Kale",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_068",
+    "name": "Turnip (Shalgam)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_069",
+    "name": "Yam (Jimikand)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "fv_070",
+    "name": "Lotus Stem (Kamal Kakdi)",
+    "category": "nature",
+    "subcategory": "fruits_vegetables",
+    "difficulty": "hard",
+    "region": "general"
+  }
+]

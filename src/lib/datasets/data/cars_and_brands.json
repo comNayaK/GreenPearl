@@ -1,0 +1,562 @@
+[
+  {
+    "id": "cb_001",
+    "name": "Ferrari",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_002",
+    "name": "Lamborghini",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_003",
+    "name": "Porsche",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_004",
+    "name": "Rolls-Royce",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_005",
+    "name": "Bentley",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_006",
+    "name": "Aston Martin",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_007",
+    "name": "McLaren",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_008",
+    "name": "Bugatti",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_009",
+    "name": "Mercedes-Benz",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_010",
+    "name": "BMW",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_011",
+    "name": "Audi",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_012",
+    "name": "Land Rover",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_013",
+    "name": "Range Rover",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_014",
+    "name": "Jaguar",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_015",
+    "name": "Tesla",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_016",
+    "name": "Ford Mustang",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_017",
+    "name": "Chevrolet Corvette",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_018",
+    "name": "Toyota Supra",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_019",
+    "name": "Nissan GT-R",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_020",
+    "name": "Honda Civic Type R",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_021",
+    "name": "Tata Harrier",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_022",
+    "name": "Tata Safari",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_023",
+    "name": "Tata Nexon",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_024",
+    "name": "Mahindra Thar",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_025",
+    "name": "Mahindra Scorpio-N",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_026",
+    "name": "Mahindra XUV700",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_027",
+    "name": "Hyundai Creta",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_028",
+    "name": "Kia Seltos",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_029",
+    "name": "Maruti Suzuki Swift",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_030",
+    "name": "Toyota Fortuner",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "easy",
+    "region": "general"
+  },
+  {
+    "id": "cb_031",
+    "name": "Toyota Land Cruiser",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_032",
+    "name": "Volkswagen Golf",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_033",
+    "name": "Skoda Octavia",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_034",
+    "name": "Jeep Wrangler",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_035",
+    "name": "Volvo XC90",
+    "category": "lifestyle",
+    "subcategory": "cars",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_036",
+    "name": "Apple",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_037",
+    "name": "Google",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_038",
+    "name": "Microsoft",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_039",
+    "name": "Amazon",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_040",
+    "name": "Nike",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_041",
+    "name": "Adidas",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_042",
+    "name": "Puma",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_043",
+    "name": "Zara",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_044",
+    "name": "Gucci",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_045",
+    "name": "Louis Vuitton",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_046",
+    "name": "Rolex",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_047",
+    "name": "Samsung",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_048",
+    "name": "Sony",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_049",
+    "name": "PlayStation",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_050",
+    "name": "Xbox",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_051",
+    "name": "Starbucks",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_052",
+    "name": "McDonald's",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_053",
+    "name": "Domino's",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_054",
+    "name": "Subway",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_055",
+    "name": "KFC",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_056",
+    "name": "Coca-Cola",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_057",
+    "name": "Pepsi",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_058",
+    "name": "Red Bull",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_059",
+    "name": "Amul",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_060",
+    "name": "Haldiram's",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_061",
+    "name": "Maggi",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_062",
+    "name": "Parle-G",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_063",
+    "name": "Titan",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_064",
+    "name": "Zomato",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_065",
+    "name": "Swiggy",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "medium",
+    "region": "general"
+  },
+  {
+    "id": "cb_066",
+    "name": "Flipkart",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "cb_067",
+    "name": "Boat",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "cb_068",
+    "name": "Paytm",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "cb_069",
+    "name": "Reliance Jio",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "hard",
+    "region": "general"
+  },
+  {
+    "id": "cb_070",
+    "name": "Airtel",
+    "category": "lifestyle",
+    "subcategory": "brands",
+    "difficulty": "hard",
+    "region": "general"
+  }
+]
