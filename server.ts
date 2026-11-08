@@ -4,6 +4,11 @@ import next from 'next';
 import { Server } from 'socket.io';
 import { setupSocketHandlers } from './src/server/socketHandler';
 
+// Fallback to SQLite dev database if DATABASE_URL is not explicitly provided
+if (!process.env.DATABASE_URL) {
+  process.env.DATABASE_URL = 'file:./prisma/dev.db';
+}
+
 const dev = process.env.NODE_ENV !== 'production';
 const hostname = '0.0.0.0';
 const port = parseInt(process.env.PORT || '3000', 10);
